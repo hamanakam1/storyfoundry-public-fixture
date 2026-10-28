@@ -1,0 +1,271 @@
+{
+  "synthetic": true,
+  "notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+  "dataset_id": "synthetic-e680a51d7913",
+  "history_start": "2024-10-29",
+  "anchor_date": "2026-10-28",
+  "counts": {
+    "accounts": 500,
+    "activities": 1157,
+    "billing_schedule": 420,
+    "campaign_memberships": 500,
+    "campaigns": 24,
+    "company": 1,
+    "contacts": 600,
+    "contract_lines": 280,
+    "contracts": 140,
+    "conversations": 500,
+    "credit_notes": 7,
+    "customers": 100,
+    "expenses": 280,
+    "invoice_lines": 834,
+    "invoices": 417,
+    "knowledge": 60,
+    "knowledge_versions": 120,
+    "leads": 500,
+    "meeting_attendees": 880,
+    "meetings": 440,
+    "messages": 1500,
+    "milestones": 700,
+    "notes": 640,
+    "opportunities": 500,
+    "payment_attempts": 9,
+    "payments": 413,
+    "projects": 140,
+    "services": 6,
+    "skills": 24,
+    "staff": 48,
+    "story_events": 5,
+    "support_tickets": 300,
+    "talent": 1000,
+    "talent_assignments": 420,
+    "talent_skills": 3000,
+    "task_dependencies": 1260,
+    "tasks": 1400,
+    "time_entries": 2800
+  },
+  "lead_stages": {
+    "won": 100,
+    "lost": 140,
+    "nurturing": 80,
+    "qualified": 60,
+    "contacted": 50,
+    "new": 70
+  },
+  "project_states": {
+    "completed": 134,
+    "active": 6
+  },
+  "financials": {
+    "currency": "USD",
+    "contracted_cents": 246350000,
+    "invoiced_cents": 245070000,
+    "credits_cents": 116000,
+    "cash_collected_cents": 238215250,
+    "outstanding_cents": 6738750,
+    "basis": "Synthetic operational arithmetic, not GAAP revenue or a real company performance claim"
+  },
+  "future_meetings": 40,
+  "monthly_cohorts": [
+    {
+      "month": "2024-10",
+      "leads": 2,
+      "customers": 0,
+      "cash_collected_cents": 0,
+      "invoiced_cents": 0,
+      "worked_minutes": 0
+    },
+    {
+      "month": "2024-11",
+      "leads": 18,
+      "customers": 1,
+      "cash_collected_cents": 0,
+      "invoiced_cents": 550000,
+      "worked_minutes": 60
+    },
+    {
+      "month": "2024-12",
+      "leads": 31,
+      "customers": 3,
+      "cash_collected_cents": 2650000,
+      "invoiced_cents": 3530000,
+      "worked_minutes": 4050
+    },
+    {
+      "month": "2025-01",
+      "leads": 17,
+      "customers": 3,
+      "cash_collected_cents": 3190000,
+      "invoiced_cents": 3970000,
+      "worked_minutes": 7590
+    },
+    {
+      "month": "2025-02",
+      "leads": 21,
+      "customers": 4,
+      "cash_collected_cents": 5145000,
+      "invoiced_cents": 5725000,
+      "worked_minutes": 7800
+    },
+    {
+      "month": "2025-03",
+      "leads": 13,
+      "customers": 4,
+      "cash_collected_cents": 5784500,
+      "invoiced_cents": 7000000,
+      "worked_minutes": 9300
+    },
+    {
+      "month": "2025-04",
+      "leads": 32,
+      "customers": 4,
+      "cash_collected_cents": 6495000,
+      "invoiced_cents": 6575000,
+      "worked_minutes": 9210
+    },
+    {
+      "month": "2025-05",
+      "leads": 20,
+      "customers": 4,
+      "cash_collected_cents": 6597500,
+      "invoiced_cents": 7900000,
+      "worked_minutes": 10620
+    },
+    {
+      "month": "2025-06",
+      "leads": 21,
+      "customers": 5,
+      "cash_collected_cents": 9730000,
+      "invoiced_cents": 12045000,
+      "worked_minutes": 14280
+    },
+    {
+      "month": "2025-07",
+      "leads": 12,
+      "customers": 4,
+      "cash_collected_cents": 12180000,
+      "invoiced_cents": 11120000,
+      "worked_minutes": 18720
+    },
+    {
+      "month": "2025-08",
+      "leads": 21,
+      "customers": 5,
+      "cash_collected_cents": 13136750,
+      "invoiced_cents": 14700000,
+      "worked_minutes": 19860
+    },
+    {
+      "month": "2025-09",
+      "leads": 21,
+      "customers": 5,
+      "cash_collected_cents": 13989500,
+      "invoiced_cents": 14715000,
+      "worked_minutes": 20130
+    },
+    {
+      "month": "2025-10",
+      "leads": 28,
+      "customers": 5,
+      "cash_collected_cents": 14140000,
+      "invoiced_cents": 15700000,
+      "worked_minutes": 21630
+    },
+    {
+      "month": "2025-11",
+      "leads": 26,
+      "customers": 5,
+      "cash_collected_cents": 15335000,
+      "invoiced_cents": 16090000,
+      "worked_minutes": 21660
+    },
+    {
+      "month": "2025-12",
+      "leads": 28,
+      "customers": 5,
+      "cash_collected_cents": 16287500,
+      "invoiced_cents": 16585000,
+      "worked_minutes": 22740
+    },
+    {
+      "month": "2026-01",
+      "leads": 22,
+      "customers": 5,
+      "cash_collected_cents": 15837500,
+      "invoiced_cents": 17115000,
+      "worked_minutes": 23820
+    },
+    {
+      "month": "2026-02",
+      "leads": 20,
+      "customers": 5,
+      "cash_collected_cents": 15291000,
+      "invoiced_cents": 15300000,
+      "worked_minutes": 21750
+    },
+    {
+      "month": "2026-03",
+      "leads": 22,
+      "customers": 5,
+      "cash_collected_cents": 17208500,
+      "invoiced_cents": 15330000,
+      "worked_minutes": 23940
+    },
+    {
+      "month": "2026-04",
+      "leads": 24,
+      "customers": 6,
+      "cash_collected_cents": 12855000,
+      "invoiced_cents": 13790000,
+      "worked_minutes": 16260
+    },
+    {
+      "month": "2026-05",
+      "leads": 26,
+      "customers": 5,
+      "cash_collected_cents": 11795000,
+      "invoiced_cents": 11285000,
+      "worked_minutes": 13410
+    },
+    {
+      "month": "2026-06",
+      "leads": 12,
+      "customers": 6,
+      "cash_collected_cents": 10447500,
+      "invoiced_cents": 9695000,
+      "worked_minutes": 13050
+    },
+    {
+      "month": "2026-07",
+      "leads": 17,
+      "customers": 5,
+      "cash_collected_cents": 10500000,
+      "invoiced_cents": 9675000,
+      "worked_minutes": 13590
+    },
+    {
+      "month": "2026-08",
+      "leads": 15,
+      "customers": 6,
+      "cash_collected_cents": 9742500,
+      "invoiced_cents": 10110000,
+      "worked_minutes": 13680
+    },
+    {
+      "month": "2026-09",
+      "leads": 19,
+      "customers": 0,
+      "cash_collected_cents": 5535000,
+      "invoiced_cents": 4855000,
+      "worked_minutes": 8310
+    },
+    {
+      "month": "2026-10",
+      "leads": 12,
+      "customers": 0,
+      "cash_collected_cents": 4342500,
+      "invoiced_cents": 1710000,
+      "worked_minutes": 540
+    }
+  ]
+}

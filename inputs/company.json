@@ -1,0 +1,25 @@
+{
+  "company_name": "Mosaic Service Studio",
+  "company_expansion": "A fictional advisory and delivery studio",
+  "scenario": "FICTIONAL service operations training scenario",
+  "anchor_date": "2026-10-28",
+  "history_start": "2024-10-29",
+  "seed": 41027,
+  "customers": 100,
+  "leads": 500,
+  "talent": 1000,
+  "staff": 48,
+  "future_meetings": 40,
+  "currency": "USD",
+  "services": [
+    ["Workflow mapping", 1100000],
+    ["Content architecture", 1650000],
+    ["Data cleanup rehearsal", 2250000],
+    ["Team enablement", 1900000],
+    ["Reporting playbook", 1450000],
+    ["Operations retrospective", 1250000]
+  ],
+  "tax_assumption": "Synthetic zero-tax scenario; not tax advice or a real invoice",
+  "synthetic": true,
+  "live_import_authorized": false
+}

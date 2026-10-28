@@ -1,0 +1,25 @@
+id,dataset_id,synthetic,name,classification
+e680a51d7913-skills-000001,synthetic-e680a51d7913,true,acceptance review,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000002,synthetic-e680a51d7913,true,assumption tracking,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000003,synthetic-e680a51d7913,true,capacity modeling,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000004,synthetic-e680a51d7913,true,cash reconciliation,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000005,synthetic-e680a51d7913,true,client communication,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000006,synthetic-e680a51d7913,true,client discovery,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000007,synthetic-e680a51d7913,true,decision logs,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000008,synthetic-e680a51d7913,true,expense tracking,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000009,synthetic-e680a51d7913,true,feedback synthesis,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000010,synthetic-e680a51d7913,true,group facilitation,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000011,synthetic-e680a51d7913,true,handoff design,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000012,synthetic-e680a51d7913,true,interview synthesis,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000013,synthetic-e680a51d7913,true,invoice review,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000014,synthetic-e680a51d7913,true,issue triage,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000015,synthetic-e680a51d7913,true,knowledge writing,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000016,synthetic-e680a51d7913,true,process mapping,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000017,synthetic-e680a51d7913,true,quality checks,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000018,synthetic-e680a51d7913,true,record checking,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000019,synthetic-e680a51d7913,true,scenario research,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000020,synthetic-e680a51d7913,true,scope planning,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000021,synthetic-e680a51d7913,true,session design,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000022,synthetic-e680a51d7913,true,source attribution,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000023,synthetic-e680a51d7913,true,status reporting,FICTIONAL_PROFILE_CAPABILITY
+e680a51d7913-skills-000024,synthetic-e680a51d7913,true,task scheduling,FICTIONAL_PROFILE_CAPABILITY

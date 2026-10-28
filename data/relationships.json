@@ -1,0 +1,129 @@
+{
+  "customers": {
+    "account_id": "accounts",
+    "lead_id": "leads"
+  },
+  "contacts": {
+    "account_id": "accounts"
+  },
+  "leads": {
+    "account_id": "accounts",
+    "contact_id": "contacts",
+    "owner_id": "staff",
+    "campaign_id": "campaigns"
+  },
+  "opportunities": {
+    "lead_id": "leads",
+    "account_id": "accounts",
+    "owner_id": "staff"
+  },
+  "staff": {
+    "talent_id": "talent"
+  },
+  "talent_skills": {
+    "talent_id": "talent",
+    "skill_id": "skills"
+  },
+  "campaign_memberships": {
+    "campaign_id": "campaigns",
+    "lead_id": "leads"
+  },
+  "contracts": {
+    "customer_id": "customers",
+    "project_id": "projects",
+    "service_id": "services"
+  },
+  "contract_lines": {
+    "contract_id": "contracts"
+  },
+  "projects": {
+    "customer_id": "customers",
+    "contract_id": "contracts",
+    "manager_id": "staff"
+  },
+  "talent_assignments": {
+    "project_id": "projects",
+    "staff_id": "staff"
+  },
+  "milestones": {
+    "project_id": "projects"
+  },
+  "tasks": {
+    "project_id": "projects",
+    "milestone_id": "milestones",
+    "owner_id": "staff"
+  },
+  "task_dependencies": {
+    "task_id": "tasks",
+    "depends_on_task_id": "tasks"
+  },
+  "time_entries": {
+    "project_id": "projects",
+    "task_id": "tasks",
+    "staff_id": "staff"
+  },
+  "expenses": {
+    "project_id": "projects",
+    "staff_id": "staff"
+  },
+  "billing_schedule": {
+    "contract_id": "contracts"
+  },
+  "invoices": {
+    "contract_id": "contracts",
+    "customer_id": "customers",
+    "billing_schedule_id": "billing_schedule"
+  },
+  "invoice_lines": {
+    "invoice_id": "invoices"
+  },
+  "credit_notes": {
+    "invoice_id": "invoices"
+  },
+  "payments": {
+    "invoice_id": "invoices",
+    "customer_id": "customers"
+  },
+  "payment_attempts": {
+    "invoice_id": "invoices"
+  },
+  "support_tickets": {
+    "customer_id": "customers",
+    "project_id": "projects",
+    "owner_id": "staff"
+  },
+  "meetings": {
+    "account_id": "accounts",
+    "contact_id": "contacts",
+    "organizer_id": "staff"
+  },
+  "meeting_attendees": {
+    "meeting_id": "meetings",
+    "contact_id": "contacts",
+    "staff_id": "staff"
+  },
+  "conversations": {
+    "lead_id": "leads",
+    "contact_id": "contacts",
+    "owner_id": "staff"
+  },
+  "messages": {
+    "conversation_id": "conversations",
+    "contact_id": "contacts",
+    "staff_id": "staff"
+  },
+  "knowledge_versions": {
+    "knowledge_id": "knowledge",
+    "author_id": "staff"
+  },
+  "notes": {
+    "author_id": "staff"
+  },
+  "activities": {
+    "actor_id": "staff"
+  },
+  "story_events": {},
+  "knowledge": {
+    "owner_id": "staff"
+  }
+}

@@ -1,0 +1,7 @@
+id,dataset_id,synthetic,name,base_fee_cents,currency,promise
+e680a51d7913-services-000001,synthetic-e680a51d7913,true,Workflow mapping,1100000,USD,"FICTIONAL consulting deliverable; no external approval, accreditation or partnership claimed"
+e680a51d7913-services-000002,synthetic-e680a51d7913,true,Content architecture,1650000,USD,"FICTIONAL consulting deliverable; no external approval, accreditation or partnership claimed"
+e680a51d7913-services-000003,synthetic-e680a51d7913,true,Data cleanup rehearsal,2250000,USD,"FICTIONAL consulting deliverable; no external approval, accreditation or partnership claimed"
+e680a51d7913-services-000004,synthetic-e680a51d7913,true,Team enablement,1900000,USD,"FICTIONAL consulting deliverable; no external approval, accreditation or partnership claimed"
+e680a51d7913-services-000005,synthetic-e680a51d7913,true,Reporting playbook,1450000,USD,"FICTIONAL consulting deliverable; no external approval, accreditation or partnership claimed"
+e680a51d7913-services-000006,synthetic-e680a51d7913,true,Operations retrospective,1250000,USD,"FICTIONAL consulting deliverable; no external approval, accreditation or partnership claimed"

@@ -1,0 +1,281 @@
+id,dataset_id,synthetic,contract_id,description,quantity,unit_price_cents,line_total_cents
+e680a51d7913-contract_lines-000001,synthetic-e680a51d7913,true,e680a51d7913-contracts-000001,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000002,synthetic-e680a51d7913,true,e680a51d7913-contracts-000001,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000003,synthetic-e680a51d7913,true,e680a51d7913-contracts-000002,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000004,synthetic-e680a51d7913,true,e680a51d7913-contracts-000002,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000005,synthetic-e680a51d7913,true,e680a51d7913-contracts-000003,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000006,synthetic-e680a51d7913,true,e680a51d7913-contracts-000003,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000007,synthetic-e680a51d7913,true,e680a51d7913-contracts-000004,[SYNTHETIC] Consulting scope,1,1880000,1880000
+e680a51d7913-contract_lines-000008,synthetic-e680a51d7913,true,e680a51d7913-contracts-000004,[SYNTHETIC] Workshop and handoff,1,470000,470000
+e680a51d7913-contract_lines-000009,synthetic-e680a51d7913,true,e680a51d7913-contracts-000005,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000010,synthetic-e680a51d7913,true,e680a51d7913-contracts-000005,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000011,synthetic-e680a51d7913,true,e680a51d7913-contracts-000006,[SYNTHETIC] Consulting scope,1,1680000,1680000
+e680a51d7913-contract_lines-000012,synthetic-e680a51d7913,true,e680a51d7913-contracts-000006,[SYNTHETIC] Workshop and handoff,1,420000,420000
+e680a51d7913-contract_lines-000013,synthetic-e680a51d7913,true,e680a51d7913-contracts-000007,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000014,synthetic-e680a51d7913,true,e680a51d7913-contracts-000007,[SYNTHETIC] Workshop and handoff,1,440000,440000
+e680a51d7913-contract_lines-000015,synthetic-e680a51d7913,true,e680a51d7913-contracts-000008,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000016,synthetic-e680a51d7913,true,e680a51d7913-contracts-000008,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000017,synthetic-e680a51d7913,true,e680a51d7913-contracts-000009,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000018,synthetic-e680a51d7913,true,e680a51d7913-contracts-000009,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000019,synthetic-e680a51d7913,true,e680a51d7913-contracts-000010,[SYNTHETIC] Consulting scope,1,1000000,1000000
+e680a51d7913-contract_lines-000020,synthetic-e680a51d7913,true,e680a51d7913-contracts-000010,[SYNTHETIC] Workshop and handoff,1,250000,250000
+e680a51d7913-contract_lines-000021,synthetic-e680a51d7913,true,e680a51d7913-contracts-000011,[SYNTHETIC] Consulting scope,1,1080000,1080000
+e680a51d7913-contract_lines-000022,synthetic-e680a51d7913,true,e680a51d7913-contracts-000011,[SYNTHETIC] Workshop and handoff,1,270000,270000
+e680a51d7913-contract_lines-000023,synthetic-e680a51d7913,true,e680a51d7913-contracts-000012,[SYNTHETIC] Consulting scope,1,960000,960000
+e680a51d7913-contract_lines-000024,synthetic-e680a51d7913,true,e680a51d7913-contracts-000012,[SYNTHETIC] Workshop and handoff,1,240000,240000
+e680a51d7913-contract_lines-000025,synthetic-e680a51d7913,true,e680a51d7913-contracts-000013,[SYNTHETIC] Consulting scope,1,1040000,1040000
+e680a51d7913-contract_lines-000026,synthetic-e680a51d7913,true,e680a51d7913-contracts-000013,[SYNTHETIC] Workshop and handoff,1,260000,260000
+e680a51d7913-contract_lines-000027,synthetic-e680a51d7913,true,e680a51d7913-contracts-000014,[SYNTHETIC] Consulting scope,1,1480000,1480000
+e680a51d7913-contract_lines-000028,synthetic-e680a51d7913,true,e680a51d7913-contracts-000014,[SYNTHETIC] Workshop and handoff,1,370000,370000
+e680a51d7913-contract_lines-000029,synthetic-e680a51d7913,true,e680a51d7913-contracts-000015,[SYNTHETIC] Consulting scope,1,1560000,1560000
+e680a51d7913-contract_lines-000030,synthetic-e680a51d7913,true,e680a51d7913-contracts-000015,[SYNTHETIC] Workshop and handoff,1,390000,390000
+e680a51d7913-contract_lines-000031,synthetic-e680a51d7913,true,e680a51d7913-contracts-000016,[SYNTHETIC] Consulting scope,1,2040000,2040000
+e680a51d7913-contract_lines-000032,synthetic-e680a51d7913,true,e680a51d7913-contracts-000016,[SYNTHETIC] Workshop and handoff,1,510000,510000
+e680a51d7913-contract_lines-000033,synthetic-e680a51d7913,true,e680a51d7913-contracts-000017,[SYNTHETIC] Consulting scope,1,1800000,1800000
+e680a51d7913-contract_lines-000034,synthetic-e680a51d7913,true,e680a51d7913-contracts-000017,[SYNTHETIC] Workshop and handoff,1,450000,450000
+e680a51d7913-contract_lines-000035,synthetic-e680a51d7913,true,e680a51d7913-contracts-000018,[SYNTHETIC] Consulting scope,1,1520000,1520000
+e680a51d7913-contract_lines-000036,synthetic-e680a51d7913,true,e680a51d7913-contracts-000018,[SYNTHETIC] Workshop and handoff,1,380000,380000
+e680a51d7913-contract_lines-000037,synthetic-e680a51d7913,true,e680a51d7913-contracts-000019,[SYNTHETIC] Consulting scope,1,1600000,1600000
+e680a51d7913-contract_lines-000038,synthetic-e680a51d7913,true,e680a51d7913-contracts-000019,[SYNTHETIC] Workshop and handoff,1,400000,400000
+e680a51d7913-contract_lines-000039,synthetic-e680a51d7913,true,e680a51d7913-contracts-000020,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000040,synthetic-e680a51d7913,true,e680a51d7913-contracts-000020,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000041,synthetic-e680a51d7913,true,e680a51d7913-contracts-000021,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000042,synthetic-e680a51d7913,true,e680a51d7913-contracts-000021,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000043,synthetic-e680a51d7913,true,e680a51d7913-contracts-000022,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000044,synthetic-e680a51d7913,true,e680a51d7913-contracts-000022,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000045,synthetic-e680a51d7913,true,e680a51d7913-contracts-000023,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000046,synthetic-e680a51d7913,true,e680a51d7913-contracts-000023,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000047,synthetic-e680a51d7913,true,e680a51d7913-contracts-000024,[SYNTHETIC] Consulting scope,1,1120000,1120000
+e680a51d7913-contract_lines-000048,synthetic-e680a51d7913,true,e680a51d7913-contracts-000024,[SYNTHETIC] Workshop and handoff,1,280000,280000
+e680a51d7913-contract_lines-000049,synthetic-e680a51d7913,true,e680a51d7913-contracts-000025,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000050,synthetic-e680a51d7913,true,e680a51d7913-contracts-000025,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000051,synthetic-e680a51d7913,true,e680a51d7913-contracts-000026,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000052,synthetic-e680a51d7913,true,e680a51d7913-contracts-000026,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000053,synthetic-e680a51d7913,true,e680a51d7913-contracts-000027,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000054,synthetic-e680a51d7913,true,e680a51d7913-contracts-000027,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000055,synthetic-e680a51d7913,true,e680a51d7913-contracts-000028,[SYNTHETIC] Consulting scope,1,1880000,1880000
+e680a51d7913-contract_lines-000056,synthetic-e680a51d7913,true,e680a51d7913-contracts-000028,[SYNTHETIC] Workshop and handoff,1,470000,470000
+e680a51d7913-contract_lines-000057,synthetic-e680a51d7913,true,e680a51d7913-contracts-000029,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000058,synthetic-e680a51d7913,true,e680a51d7913-contracts-000029,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000059,synthetic-e680a51d7913,true,e680a51d7913-contracts-000030,[SYNTHETIC] Consulting scope,1,1680000,1680000
+e680a51d7913-contract_lines-000060,synthetic-e680a51d7913,true,e680a51d7913-contracts-000030,[SYNTHETIC] Workshop and handoff,1,420000,420000
+e680a51d7913-contract_lines-000061,synthetic-e680a51d7913,true,e680a51d7913-contracts-000031,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000062,synthetic-e680a51d7913,true,e680a51d7913-contracts-000031,[SYNTHETIC] Workshop and handoff,1,440000,440000
+e680a51d7913-contract_lines-000063,synthetic-e680a51d7913,true,e680a51d7913-contracts-000032,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000064,synthetic-e680a51d7913,true,e680a51d7913-contracts-000032,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000065,synthetic-e680a51d7913,true,e680a51d7913-contracts-000033,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000066,synthetic-e680a51d7913,true,e680a51d7913-contracts-000033,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000067,synthetic-e680a51d7913,true,e680a51d7913-contracts-000034,[SYNTHETIC] Consulting scope,1,1000000,1000000
+e680a51d7913-contract_lines-000068,synthetic-e680a51d7913,true,e680a51d7913-contracts-000034,[SYNTHETIC] Workshop and handoff,1,250000,250000
+e680a51d7913-contract_lines-000069,synthetic-e680a51d7913,true,e680a51d7913-contracts-000035,[SYNTHETIC] Consulting scope,1,1080000,1080000
+e680a51d7913-contract_lines-000070,synthetic-e680a51d7913,true,e680a51d7913-contracts-000035,[SYNTHETIC] Workshop and handoff,1,270000,270000
+e680a51d7913-contract_lines-000071,synthetic-e680a51d7913,true,e680a51d7913-contracts-000036,[SYNTHETIC] Consulting scope,1,960000,960000
+e680a51d7913-contract_lines-000072,synthetic-e680a51d7913,true,e680a51d7913-contracts-000036,[SYNTHETIC] Workshop and handoff,1,240000,240000
+e680a51d7913-contract_lines-000073,synthetic-e680a51d7913,true,e680a51d7913-contracts-000037,[SYNTHETIC] Consulting scope,1,1040000,1040000
+e680a51d7913-contract_lines-000074,synthetic-e680a51d7913,true,e680a51d7913-contracts-000037,[SYNTHETIC] Workshop and handoff,1,260000,260000
+e680a51d7913-contract_lines-000075,synthetic-e680a51d7913,true,e680a51d7913-contracts-000038,[SYNTHETIC] Consulting scope,1,1480000,1480000
+e680a51d7913-contract_lines-000076,synthetic-e680a51d7913,true,e680a51d7913-contracts-000038,[SYNTHETIC] Workshop and handoff,1,370000,370000
+e680a51d7913-contract_lines-000077,synthetic-e680a51d7913,true,e680a51d7913-contracts-000039,[SYNTHETIC] Consulting scope,1,1560000,1560000
+e680a51d7913-contract_lines-000078,synthetic-e680a51d7913,true,e680a51d7913-contracts-000039,[SYNTHETIC] Workshop and handoff,1,390000,390000
+e680a51d7913-contract_lines-000079,synthetic-e680a51d7913,true,e680a51d7913-contracts-000040,[SYNTHETIC] Consulting scope,1,2040000,2040000
+e680a51d7913-contract_lines-000080,synthetic-e680a51d7913,true,e680a51d7913-contracts-000040,[SYNTHETIC] Workshop and handoff,1,510000,510000
+e680a51d7913-contract_lines-000081,synthetic-e680a51d7913,true,e680a51d7913-contracts-000041,[SYNTHETIC] Consulting scope,1,1800000,1800000
+e680a51d7913-contract_lines-000082,synthetic-e680a51d7913,true,e680a51d7913-contracts-000041,[SYNTHETIC] Workshop and handoff,1,450000,450000
+e680a51d7913-contract_lines-000083,synthetic-e680a51d7913,true,e680a51d7913-contracts-000042,[SYNTHETIC] Consulting scope,1,1520000,1520000
+e680a51d7913-contract_lines-000084,synthetic-e680a51d7913,true,e680a51d7913-contracts-000042,[SYNTHETIC] Workshop and handoff,1,380000,380000
+e680a51d7913-contract_lines-000085,synthetic-e680a51d7913,true,e680a51d7913-contracts-000043,[SYNTHETIC] Consulting scope,1,1600000,1600000
+e680a51d7913-contract_lines-000086,synthetic-e680a51d7913,true,e680a51d7913-contracts-000043,[SYNTHETIC] Workshop and handoff,1,400000,400000
+e680a51d7913-contract_lines-000087,synthetic-e680a51d7913,true,e680a51d7913-contracts-000044,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000088,synthetic-e680a51d7913,true,e680a51d7913-contracts-000044,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000089,synthetic-e680a51d7913,true,e680a51d7913-contracts-000045,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000090,synthetic-e680a51d7913,true,e680a51d7913-contracts-000045,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000091,synthetic-e680a51d7913,true,e680a51d7913-contracts-000046,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000092,synthetic-e680a51d7913,true,e680a51d7913-contracts-000046,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000093,synthetic-e680a51d7913,true,e680a51d7913-contracts-000047,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000094,synthetic-e680a51d7913,true,e680a51d7913-contracts-000047,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000095,synthetic-e680a51d7913,true,e680a51d7913-contracts-000048,[SYNTHETIC] Consulting scope,1,1120000,1120000
+e680a51d7913-contract_lines-000096,synthetic-e680a51d7913,true,e680a51d7913-contracts-000048,[SYNTHETIC] Workshop and handoff,1,280000,280000
+e680a51d7913-contract_lines-000097,synthetic-e680a51d7913,true,e680a51d7913-contracts-000049,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000098,synthetic-e680a51d7913,true,e680a51d7913-contracts-000049,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000099,synthetic-e680a51d7913,true,e680a51d7913-contracts-000050,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000100,synthetic-e680a51d7913,true,e680a51d7913-contracts-000050,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000101,synthetic-e680a51d7913,true,e680a51d7913-contracts-000051,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000102,synthetic-e680a51d7913,true,e680a51d7913-contracts-000051,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000103,synthetic-e680a51d7913,true,e680a51d7913-contracts-000052,[SYNTHETIC] Consulting scope,1,1880000,1880000
+e680a51d7913-contract_lines-000104,synthetic-e680a51d7913,true,e680a51d7913-contracts-000052,[SYNTHETIC] Workshop and handoff,1,470000,470000
+e680a51d7913-contract_lines-000105,synthetic-e680a51d7913,true,e680a51d7913-contracts-000053,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000106,synthetic-e680a51d7913,true,e680a51d7913-contracts-000053,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000107,synthetic-e680a51d7913,true,e680a51d7913-contracts-000054,[SYNTHETIC] Consulting scope,1,1680000,1680000
+e680a51d7913-contract_lines-000108,synthetic-e680a51d7913,true,e680a51d7913-contracts-000054,[SYNTHETIC] Workshop and handoff,1,420000,420000
+e680a51d7913-contract_lines-000109,synthetic-e680a51d7913,true,e680a51d7913-contracts-000055,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000110,synthetic-e680a51d7913,true,e680a51d7913-contracts-000055,[SYNTHETIC] Workshop and handoff,1,440000,440000
+e680a51d7913-contract_lines-000111,synthetic-e680a51d7913,true,e680a51d7913-contracts-000056,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000112,synthetic-e680a51d7913,true,e680a51d7913-contracts-000056,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000113,synthetic-e680a51d7913,true,e680a51d7913-contracts-000057,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000114,synthetic-e680a51d7913,true,e680a51d7913-contracts-000057,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000115,synthetic-e680a51d7913,true,e680a51d7913-contracts-000058,[SYNTHETIC] Consulting scope,1,1000000,1000000
+e680a51d7913-contract_lines-000116,synthetic-e680a51d7913,true,e680a51d7913-contracts-000058,[SYNTHETIC] Workshop and handoff,1,250000,250000
+e680a51d7913-contract_lines-000117,synthetic-e680a51d7913,true,e680a51d7913-contracts-000059,[SYNTHETIC] Consulting scope,1,1080000,1080000
+e680a51d7913-contract_lines-000118,synthetic-e680a51d7913,true,e680a51d7913-contracts-000059,[SYNTHETIC] Workshop and handoff,1,270000,270000
+e680a51d7913-contract_lines-000119,synthetic-e680a51d7913,true,e680a51d7913-contracts-000060,[SYNTHETIC] Consulting scope,1,960000,960000
+e680a51d7913-contract_lines-000120,synthetic-e680a51d7913,true,e680a51d7913-contracts-000060,[SYNTHETIC] Workshop and handoff,1,240000,240000
+e680a51d7913-contract_lines-000121,synthetic-e680a51d7913,true,e680a51d7913-contracts-000061,[SYNTHETIC] Consulting scope,1,1040000,1040000
+e680a51d7913-contract_lines-000122,synthetic-e680a51d7913,true,e680a51d7913-contracts-000061,[SYNTHETIC] Workshop and handoff,1,260000,260000
+e680a51d7913-contract_lines-000123,synthetic-e680a51d7913,true,e680a51d7913-contracts-000062,[SYNTHETIC] Consulting scope,1,1480000,1480000
+e680a51d7913-contract_lines-000124,synthetic-e680a51d7913,true,e680a51d7913-contracts-000062,[SYNTHETIC] Workshop and handoff,1,370000,370000
+e680a51d7913-contract_lines-000125,synthetic-e680a51d7913,true,e680a51d7913-contracts-000063,[SYNTHETIC] Consulting scope,1,1560000,1560000
+e680a51d7913-contract_lines-000126,synthetic-e680a51d7913,true,e680a51d7913-contracts-000063,[SYNTHETIC] Workshop and handoff,1,390000,390000
+e680a51d7913-contract_lines-000127,synthetic-e680a51d7913,true,e680a51d7913-contracts-000064,[SYNTHETIC] Consulting scope,1,2040000,2040000
+e680a51d7913-contract_lines-000128,synthetic-e680a51d7913,true,e680a51d7913-contracts-000064,[SYNTHETIC] Workshop and handoff,1,510000,510000
+e680a51d7913-contract_lines-000129,synthetic-e680a51d7913,true,e680a51d7913-contracts-000065,[SYNTHETIC] Consulting scope,1,1800000,1800000
+e680a51d7913-contract_lines-000130,synthetic-e680a51d7913,true,e680a51d7913-contracts-000065,[SYNTHETIC] Workshop and handoff,1,450000,450000
+e680a51d7913-contract_lines-000131,synthetic-e680a51d7913,true,e680a51d7913-contracts-000066,[SYNTHETIC] Consulting scope,1,1520000,1520000
+e680a51d7913-contract_lines-000132,synthetic-e680a51d7913,true,e680a51d7913-contracts-000066,[SYNTHETIC] Workshop and handoff,1,380000,380000
+e680a51d7913-contract_lines-000133,synthetic-e680a51d7913,true,e680a51d7913-contracts-000067,[SYNTHETIC] Consulting scope,1,1600000,1600000
+e680a51d7913-contract_lines-000134,synthetic-e680a51d7913,true,e680a51d7913-contracts-000067,[SYNTHETIC] Workshop and handoff,1,400000,400000
+e680a51d7913-contract_lines-000135,synthetic-e680a51d7913,true,e680a51d7913-contracts-000068,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000136,synthetic-e680a51d7913,true,e680a51d7913-contracts-000068,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000137,synthetic-e680a51d7913,true,e680a51d7913-contracts-000069,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000138,synthetic-e680a51d7913,true,e680a51d7913-contracts-000069,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000139,synthetic-e680a51d7913,true,e680a51d7913-contracts-000070,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000140,synthetic-e680a51d7913,true,e680a51d7913-contracts-000070,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000141,synthetic-e680a51d7913,true,e680a51d7913-contracts-000071,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000142,synthetic-e680a51d7913,true,e680a51d7913-contracts-000071,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000143,synthetic-e680a51d7913,true,e680a51d7913-contracts-000072,[SYNTHETIC] Consulting scope,1,1120000,1120000
+e680a51d7913-contract_lines-000144,synthetic-e680a51d7913,true,e680a51d7913-contracts-000072,[SYNTHETIC] Workshop and handoff,1,280000,280000
+e680a51d7913-contract_lines-000145,synthetic-e680a51d7913,true,e680a51d7913-contracts-000073,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000146,synthetic-e680a51d7913,true,e680a51d7913-contracts-000073,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000147,synthetic-e680a51d7913,true,e680a51d7913-contracts-000074,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000148,synthetic-e680a51d7913,true,e680a51d7913-contracts-000074,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000149,synthetic-e680a51d7913,true,e680a51d7913-contracts-000075,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000150,synthetic-e680a51d7913,true,e680a51d7913-contracts-000075,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000151,synthetic-e680a51d7913,true,e680a51d7913-contracts-000076,[SYNTHETIC] Consulting scope,1,1880000,1880000
+e680a51d7913-contract_lines-000152,synthetic-e680a51d7913,true,e680a51d7913-contracts-000076,[SYNTHETIC] Workshop and handoff,1,470000,470000
+e680a51d7913-contract_lines-000153,synthetic-e680a51d7913,true,e680a51d7913-contracts-000077,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000154,synthetic-e680a51d7913,true,e680a51d7913-contracts-000077,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000155,synthetic-e680a51d7913,true,e680a51d7913-contracts-000078,[SYNTHETIC] Consulting scope,1,1680000,1680000
+e680a51d7913-contract_lines-000156,synthetic-e680a51d7913,true,e680a51d7913-contracts-000078,[SYNTHETIC] Workshop and handoff,1,420000,420000
+e680a51d7913-contract_lines-000157,synthetic-e680a51d7913,true,e680a51d7913-contracts-000079,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000158,synthetic-e680a51d7913,true,e680a51d7913-contracts-000079,[SYNTHETIC] Workshop and handoff,1,440000,440000
+e680a51d7913-contract_lines-000159,synthetic-e680a51d7913,true,e680a51d7913-contracts-000080,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000160,synthetic-e680a51d7913,true,e680a51d7913-contracts-000080,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000161,synthetic-e680a51d7913,true,e680a51d7913-contracts-000081,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000162,synthetic-e680a51d7913,true,e680a51d7913-contracts-000081,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000163,synthetic-e680a51d7913,true,e680a51d7913-contracts-000082,[SYNTHETIC] Consulting scope,1,1080000,1080000
+e680a51d7913-contract_lines-000164,synthetic-e680a51d7913,true,e680a51d7913-contracts-000082,[SYNTHETIC] Workshop and handoff,1,270000,270000
+e680a51d7913-contract_lines-000165,synthetic-e680a51d7913,true,e680a51d7913-contracts-000083,[SYNTHETIC] Consulting scope,1,1040000,1040000
+e680a51d7913-contract_lines-000166,synthetic-e680a51d7913,true,e680a51d7913-contracts-000083,[SYNTHETIC] Workshop and handoff,1,260000,260000
+e680a51d7913-contract_lines-000167,synthetic-e680a51d7913,true,e680a51d7913-contracts-000084,[SYNTHETIC] Consulting scope,1,1560000,1560000
+e680a51d7913-contract_lines-000168,synthetic-e680a51d7913,true,e680a51d7913-contracts-000084,[SYNTHETIC] Workshop and handoff,1,390000,390000
+e680a51d7913-contract_lines-000169,synthetic-e680a51d7913,true,e680a51d7913-contracts-000085,[SYNTHETIC] Consulting scope,1,1800000,1800000
+e680a51d7913-contract_lines-000170,synthetic-e680a51d7913,true,e680a51d7913-contracts-000085,[SYNTHETIC] Workshop and handoff,1,450000,450000
+e680a51d7913-contract_lines-000171,synthetic-e680a51d7913,true,e680a51d7913-contracts-000086,[SYNTHETIC] Consulting scope,1,1600000,1600000
+e680a51d7913-contract_lines-000172,synthetic-e680a51d7913,true,e680a51d7913-contracts-000086,[SYNTHETIC] Workshop and handoff,1,400000,400000
+e680a51d7913-contract_lines-000173,synthetic-e680a51d7913,true,e680a51d7913-contracts-000087,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000174,synthetic-e680a51d7913,true,e680a51d7913-contracts-000087,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000175,synthetic-e680a51d7913,true,e680a51d7913-contracts-000088,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000176,synthetic-e680a51d7913,true,e680a51d7913-contracts-000088,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000177,synthetic-e680a51d7913,true,e680a51d7913-contracts-000089,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000178,synthetic-e680a51d7913,true,e680a51d7913-contracts-000089,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000179,synthetic-e680a51d7913,true,e680a51d7913-contracts-000090,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000180,synthetic-e680a51d7913,true,e680a51d7913-contracts-000090,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000181,synthetic-e680a51d7913,true,e680a51d7913-contracts-000091,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000182,synthetic-e680a51d7913,true,e680a51d7913-contracts-000091,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000183,synthetic-e680a51d7913,true,e680a51d7913-contracts-000092,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000184,synthetic-e680a51d7913,true,e680a51d7913-contracts-000092,[SYNTHETIC] Workshop and handoff,1,440000,440000
+e680a51d7913-contract_lines-000185,synthetic-e680a51d7913,true,e680a51d7913-contracts-000093,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000186,synthetic-e680a51d7913,true,e680a51d7913-contracts-000093,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000187,synthetic-e680a51d7913,true,e680a51d7913-contracts-000094,[SYNTHETIC] Consulting scope,1,1080000,1080000
+e680a51d7913-contract_lines-000188,synthetic-e680a51d7913,true,e680a51d7913-contracts-000094,[SYNTHETIC] Workshop and handoff,1,270000,270000
+e680a51d7913-contract_lines-000189,synthetic-e680a51d7913,true,e680a51d7913-contracts-000095,[SYNTHETIC] Consulting scope,1,1040000,1040000
+e680a51d7913-contract_lines-000190,synthetic-e680a51d7913,true,e680a51d7913-contracts-000095,[SYNTHETIC] Workshop and handoff,1,260000,260000
+e680a51d7913-contract_lines-000191,synthetic-e680a51d7913,true,e680a51d7913-contracts-000096,[SYNTHETIC] Consulting scope,1,1560000,1560000
+e680a51d7913-contract_lines-000192,synthetic-e680a51d7913,true,e680a51d7913-contracts-000096,[SYNTHETIC] Workshop and handoff,1,390000,390000
+e680a51d7913-contract_lines-000193,synthetic-e680a51d7913,true,e680a51d7913-contracts-000097,[SYNTHETIC] Consulting scope,1,1800000,1800000
+e680a51d7913-contract_lines-000194,synthetic-e680a51d7913,true,e680a51d7913-contracts-000097,[SYNTHETIC] Workshop and handoff,1,450000,450000
+e680a51d7913-contract_lines-000195,synthetic-e680a51d7913,true,e680a51d7913-contracts-000098,[SYNTHETIC] Consulting scope,1,1600000,1600000
+e680a51d7913-contract_lines-000196,synthetic-e680a51d7913,true,e680a51d7913-contracts-000098,[SYNTHETIC] Workshop and handoff,1,400000,400000
+e680a51d7913-contract_lines-000197,synthetic-e680a51d7913,true,e680a51d7913-contracts-000099,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000198,synthetic-e680a51d7913,true,e680a51d7913-contracts-000099,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000199,synthetic-e680a51d7913,true,e680a51d7913-contracts-000100,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000200,synthetic-e680a51d7913,true,e680a51d7913-contracts-000100,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000201,synthetic-e680a51d7913,true,e680a51d7913-contracts-000101,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000202,synthetic-e680a51d7913,true,e680a51d7913-contracts-000101,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000203,synthetic-e680a51d7913,true,e680a51d7913-contracts-000102,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000204,synthetic-e680a51d7913,true,e680a51d7913-contracts-000102,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000205,synthetic-e680a51d7913,true,e680a51d7913-contracts-000103,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000206,synthetic-e680a51d7913,true,e680a51d7913-contracts-000103,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000207,synthetic-e680a51d7913,true,e680a51d7913-contracts-000104,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000208,synthetic-e680a51d7913,true,e680a51d7913-contracts-000104,[SYNTHETIC] Workshop and handoff,1,440000,440000
+e680a51d7913-contract_lines-000209,synthetic-e680a51d7913,true,e680a51d7913-contracts-000105,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000210,synthetic-e680a51d7913,true,e680a51d7913-contracts-000105,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000211,synthetic-e680a51d7913,true,e680a51d7913-contracts-000106,[SYNTHETIC] Consulting scope,1,1080000,1080000
+e680a51d7913-contract_lines-000212,synthetic-e680a51d7913,true,e680a51d7913-contracts-000106,[SYNTHETIC] Workshop and handoff,1,270000,270000
+e680a51d7913-contract_lines-000213,synthetic-e680a51d7913,true,e680a51d7913-contracts-000107,[SYNTHETIC] Consulting scope,1,1040000,1040000
+e680a51d7913-contract_lines-000214,synthetic-e680a51d7913,true,e680a51d7913-contracts-000107,[SYNTHETIC] Workshop and handoff,1,260000,260000
+e680a51d7913-contract_lines-000215,synthetic-e680a51d7913,true,e680a51d7913-contracts-000108,[SYNTHETIC] Consulting scope,1,1560000,1560000
+e680a51d7913-contract_lines-000216,synthetic-e680a51d7913,true,e680a51d7913-contracts-000108,[SYNTHETIC] Workshop and handoff,1,390000,390000
+e680a51d7913-contract_lines-000217,synthetic-e680a51d7913,true,e680a51d7913-contracts-000109,[SYNTHETIC] Consulting scope,1,1800000,1800000
+e680a51d7913-contract_lines-000218,synthetic-e680a51d7913,true,e680a51d7913-contracts-000109,[SYNTHETIC] Workshop and handoff,1,450000,450000
+e680a51d7913-contract_lines-000219,synthetic-e680a51d7913,true,e680a51d7913-contracts-000110,[SYNTHETIC] Consulting scope,1,1600000,1600000
+e680a51d7913-contract_lines-000220,synthetic-e680a51d7913,true,e680a51d7913-contracts-000110,[SYNTHETIC] Workshop and handoff,1,400000,400000
+e680a51d7913-contract_lines-000221,synthetic-e680a51d7913,true,e680a51d7913-contracts-000111,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000222,synthetic-e680a51d7913,true,e680a51d7913-contracts-000111,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000223,synthetic-e680a51d7913,true,e680a51d7913-contracts-000112,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000224,synthetic-e680a51d7913,true,e680a51d7913-contracts-000112,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000225,synthetic-e680a51d7913,true,e680a51d7913-contracts-000113,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000226,synthetic-e680a51d7913,true,e680a51d7913-contracts-000113,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000227,synthetic-e680a51d7913,true,e680a51d7913-contracts-000114,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000228,synthetic-e680a51d7913,true,e680a51d7913-contracts-000114,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000229,synthetic-e680a51d7913,true,e680a51d7913-contracts-000115,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000230,synthetic-e680a51d7913,true,e680a51d7913-contracts-000115,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000231,synthetic-e680a51d7913,true,e680a51d7913-contracts-000116,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000232,synthetic-e680a51d7913,true,e680a51d7913-contracts-000116,[SYNTHETIC] Workshop and handoff,1,440000,440000
+e680a51d7913-contract_lines-000233,synthetic-e680a51d7913,true,e680a51d7913-contracts-000117,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000234,synthetic-e680a51d7913,true,e680a51d7913-contracts-000117,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000235,synthetic-e680a51d7913,true,e680a51d7913-contracts-000118,[SYNTHETIC] Consulting scope,1,1080000,1080000
+e680a51d7913-contract_lines-000236,synthetic-e680a51d7913,true,e680a51d7913-contracts-000118,[SYNTHETIC] Workshop and handoff,1,270000,270000
+e680a51d7913-contract_lines-000237,synthetic-e680a51d7913,true,e680a51d7913-contracts-000119,[SYNTHETIC] Consulting scope,1,1040000,1040000
+e680a51d7913-contract_lines-000238,synthetic-e680a51d7913,true,e680a51d7913-contracts-000119,[SYNTHETIC] Workshop and handoff,1,260000,260000
+e680a51d7913-contract_lines-000239,synthetic-e680a51d7913,true,e680a51d7913-contracts-000120,[SYNTHETIC] Consulting scope,1,1560000,1560000
+e680a51d7913-contract_lines-000240,synthetic-e680a51d7913,true,e680a51d7913-contracts-000120,[SYNTHETIC] Workshop and handoff,1,390000,390000
+e680a51d7913-contract_lines-000241,synthetic-e680a51d7913,true,e680a51d7913-contracts-000121,[SYNTHETIC] Consulting scope,1,1800000,1800000
+e680a51d7913-contract_lines-000242,synthetic-e680a51d7913,true,e680a51d7913-contracts-000121,[SYNTHETIC] Workshop and handoff,1,450000,450000
+e680a51d7913-contract_lines-000243,synthetic-e680a51d7913,true,e680a51d7913-contracts-000122,[SYNTHETIC] Consulting scope,1,1600000,1600000
+e680a51d7913-contract_lines-000244,synthetic-e680a51d7913,true,e680a51d7913-contracts-000122,[SYNTHETIC] Workshop and handoff,1,400000,400000
+e680a51d7913-contract_lines-000245,synthetic-e680a51d7913,true,e680a51d7913-contracts-000123,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000246,synthetic-e680a51d7913,true,e680a51d7913-contracts-000123,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000247,synthetic-e680a51d7913,true,e680a51d7913-contracts-000124,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000248,synthetic-e680a51d7913,true,e680a51d7913-contracts-000124,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000249,synthetic-e680a51d7913,true,e680a51d7913-contracts-000125,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000250,synthetic-e680a51d7913,true,e680a51d7913-contracts-000125,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000251,synthetic-e680a51d7913,true,e680a51d7913-contracts-000126,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000252,synthetic-e680a51d7913,true,e680a51d7913-contracts-000126,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000253,synthetic-e680a51d7913,true,e680a51d7913-contracts-000127,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000254,synthetic-e680a51d7913,true,e680a51d7913-contracts-000127,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000255,synthetic-e680a51d7913,true,e680a51d7913-contracts-000128,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000256,synthetic-e680a51d7913,true,e680a51d7913-contracts-000128,[SYNTHETIC] Workshop and handoff,1,440000,440000
+e680a51d7913-contract_lines-000257,synthetic-e680a51d7913,true,e680a51d7913-contracts-000129,[SYNTHETIC] Consulting scope,1,1160000,1160000
+e680a51d7913-contract_lines-000258,synthetic-e680a51d7913,true,e680a51d7913-contracts-000129,[SYNTHETIC] Workshop and handoff,1,290000,290000
+e680a51d7913-contract_lines-000259,synthetic-e680a51d7913,true,e680a51d7913-contracts-000130,[SYNTHETIC] Consulting scope,1,1080000,1080000
+e680a51d7913-contract_lines-000260,synthetic-e680a51d7913,true,e680a51d7913-contracts-000130,[SYNTHETIC] Workshop and handoff,1,270000,270000
+e680a51d7913-contract_lines-000261,synthetic-e680a51d7913,true,e680a51d7913-contracts-000131,[SYNTHETIC] Consulting scope,1,1040000,1040000
+e680a51d7913-contract_lines-000262,synthetic-e680a51d7913,true,e680a51d7913-contracts-000131,[SYNTHETIC] Workshop and handoff,1,260000,260000
+e680a51d7913-contract_lines-000263,synthetic-e680a51d7913,true,e680a51d7913-contracts-000132,[SYNTHETIC] Consulting scope,1,1560000,1560000
+e680a51d7913-contract_lines-000264,synthetic-e680a51d7913,true,e680a51d7913-contracts-000132,[SYNTHETIC] Workshop and handoff,1,390000,390000
+e680a51d7913-contract_lines-000265,synthetic-e680a51d7913,true,e680a51d7913-contracts-000133,[SYNTHETIC] Consulting scope,1,1800000,1800000
+e680a51d7913-contract_lines-000266,synthetic-e680a51d7913,true,e680a51d7913-contracts-000133,[SYNTHETIC] Workshop and handoff,1,450000,450000
+e680a51d7913-contract_lines-000267,synthetic-e680a51d7913,true,e680a51d7913-contracts-000134,[SYNTHETIC] Consulting scope,1,1600000,1600000
+e680a51d7913-contract_lines-000268,synthetic-e680a51d7913,true,e680a51d7913-contracts-000134,[SYNTHETIC] Workshop and handoff,1,400000,400000
+e680a51d7913-contract_lines-000269,synthetic-e680a51d7913,true,e680a51d7913-contracts-000135,[SYNTHETIC] Consulting scope,1,1320000,1320000
+e680a51d7913-contract_lines-000270,synthetic-e680a51d7913,true,e680a51d7913-contracts-000135,[SYNTHETIC] Workshop and handoff,1,330000,330000
+e680a51d7913-contract_lines-000271,synthetic-e680a51d7913,true,e680a51d7913-contracts-000136,[SYNTHETIC] Consulting scope,1,1240000,1240000
+e680a51d7913-contract_lines-000272,synthetic-e680a51d7913,true,e680a51d7913-contracts-000136,[SYNTHETIC] Workshop and handoff,1,310000,310000
+e680a51d7913-contract_lines-000273,synthetic-e680a51d7913,true,e680a51d7913-contracts-000137,[SYNTHETIC] Consulting scope,1,880000,880000
+e680a51d7913-contract_lines-000274,synthetic-e680a51d7913,true,e680a51d7913-contracts-000137,[SYNTHETIC] Workshop and handoff,1,220000,220000
+e680a51d7913-contract_lines-000275,synthetic-e680a51d7913,true,e680a51d7913-contracts-000138,[SYNTHETIC] Consulting scope,1,1400000,1400000
+e680a51d7913-contract_lines-000276,synthetic-e680a51d7913,true,e680a51d7913-contracts-000138,[SYNTHETIC] Workshop and handoff,1,350000,350000
+e680a51d7913-contract_lines-000277,synthetic-e680a51d7913,true,e680a51d7913-contracts-000139,[SYNTHETIC] Consulting scope,1,1960000,1960000
+e680a51d7913-contract_lines-000278,synthetic-e680a51d7913,true,e680a51d7913-contracts-000139,[SYNTHETIC] Workshop and handoff,1,490000,490000
+e680a51d7913-contract_lines-000279,synthetic-e680a51d7913,true,e680a51d7913-contracts-000140,[SYNTHETIC] Consulting scope,1,1760000,1760000
+e680a51d7913-contract_lines-000280,synthetic-e680a51d7913,true,e680a51d7913-contracts-000140,[SYNTHETIC] Workshop and handoff,1,440000,440000

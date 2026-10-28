@@ -1,0 +1,25 @@
+id,dataset_id,synthetic,name,channel,starts_on,ends_on,budget_cents,status,sent_real_messages
+e680a51d7913-campaigns-000001,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 01 — Readiness clinic,fictional_email,2024-10-29,2024-11-27,50000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000002,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 02 — Operator workshop,fictional_webinar,2024-11-28,2024-12-28,52500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000003,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 03 — Evidence playbook,fictional_referral,2024-12-29,2025-01-27,55000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000004,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 04 — Referral roundtable,fictional_content,2025-01-28,2025-02-27,57500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000005,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 05 — Readiness clinic,fictional_email,2025-02-28,2025-03-29,60000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000006,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 06 — Operator workshop,fictional_webinar,2025-03-30,2025-04-28,62500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000007,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 07 — Evidence playbook,fictional_referral,2025-04-29,2025-05-29,65000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000008,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 08 — Referral roundtable,fictional_content,2025-05-30,2025-06-28,67500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000009,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 09 — Readiness clinic,fictional_email,2025-06-29,2025-07-28,70000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000010,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 10 — Operator workshop,fictional_webinar,2025-07-29,2025-08-28,72500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000011,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 11 — Evidence playbook,fictional_referral,2025-08-29,2025-09-27,75000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000012,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 12 — Referral roundtable,fictional_content,2025-09-28,2025-10-27,77500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000013,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 13 — Readiness clinic,fictional_email,2025-10-28,2025-11-27,80000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000014,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 14 — Operator workshop,fictional_webinar,2025-11-28,2025-12-27,82500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000015,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 15 — Evidence playbook,fictional_referral,2025-12-28,2026-01-27,85000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000016,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 16 — Referral roundtable,fictional_content,2026-01-28,2026-02-26,87500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000017,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 17 — Readiness clinic,fictional_email,2026-02-27,2026-03-28,90000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000018,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 18 — Operator workshop,fictional_webinar,2026-03-29,2026-04-28,92500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000019,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 19 — Evidence playbook,fictional_referral,2026-04-29,2026-05-28,95000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000020,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 20 — Referral roundtable,fictional_content,2026-05-29,2026-06-28,97500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000021,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 21 — Readiness clinic,fictional_email,2026-06-29,2026-07-28,100000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000022,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 22 — Operator workshop,fictional_webinar,2026-07-29,2026-08-27,102500,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000023,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 23 — Evidence playbook,fictional_referral,2026-08-28,2026-09-27,105000,SIMULATED_CLOSED,false
+e680a51d7913-campaigns-000024,synthetic-e680a51d7913,true,[SYNTHETIC] Cohort 24 — Referral roundtable,fictional_content,2026-09-28,2026-10-27,107500,SIMULATED_CLOSED,false

@@ -1,0 +1,835 @@
+id,dataset_id,synthetic,invoice_id,description,quantity,unit_price_cents,line_total_cents
+e680a51d7913-invoice_lines-000001,synthetic-e680a51d7913,true,e680a51d7913-invoices-000001,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000002,synthetic-e680a51d7913,true,e680a51d7913-invoices-000001,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000003,synthetic-e680a51d7913,true,e680a51d7913-invoices-000002,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000004,synthetic-e680a51d7913,true,e680a51d7913-invoices-000002,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000005,synthetic-e680a51d7913,true,e680a51d7913-invoices-000003,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000006,synthetic-e680a51d7913,true,e680a51d7913-invoices-000003,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000007,synthetic-e680a51d7913,true,e680a51d7913-invoices-000004,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000008,synthetic-e680a51d7913,true,e680a51d7913-invoices-000004,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000009,synthetic-e680a51d7913,true,e680a51d7913-invoices-000005,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000010,synthetic-e680a51d7913,true,e680a51d7913-invoices-000005,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000011,synthetic-e680a51d7913,true,e680a51d7913-invoices-000006,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000012,synthetic-e680a51d7913,true,e680a51d7913-invoices-000006,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000013,synthetic-e680a51d7913,true,e680a51d7913-invoices-000007,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000014,synthetic-e680a51d7913,true,e680a51d7913-invoices-000007,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000015,synthetic-e680a51d7913,true,e680a51d7913-invoices-000008,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000016,synthetic-e680a51d7913,true,e680a51d7913-invoices-000008,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000017,synthetic-e680a51d7913,true,e680a51d7913-invoices-000009,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000018,synthetic-e680a51d7913,true,e680a51d7913-invoices-000009,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000019,synthetic-e680a51d7913,true,e680a51d7913-invoices-000010,[SYNTHETIC] Consulting services,1,940000,940000
+e680a51d7913-invoice_lines-000020,synthetic-e680a51d7913,true,e680a51d7913-invoices-000010,[SYNTHETIC] Workshop/handoff,1,235000,235000
+e680a51d7913-invoice_lines-000021,synthetic-e680a51d7913,true,e680a51d7913-invoices-000011,[SYNTHETIC] Consulting services,1,564000,564000
+e680a51d7913-invoice_lines-000022,synthetic-e680a51d7913,true,e680a51d7913-invoices-000011,[SYNTHETIC] Workshop/handoff,1,141000,141000
+e680a51d7913-invoice_lines-000023,synthetic-e680a51d7913,true,e680a51d7913-invoices-000012,[SYNTHETIC] Consulting services,1,376000,376000
+e680a51d7913-invoice_lines-000024,synthetic-e680a51d7913,true,e680a51d7913-invoices-000012,[SYNTHETIC] Workshop/handoff,1,94000,94000
+e680a51d7913-invoice_lines-000025,synthetic-e680a51d7913,true,e680a51d7913-invoices-000013,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000026,synthetic-e680a51d7913,true,e680a51d7913-invoices-000013,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000027,synthetic-e680a51d7913,true,e680a51d7913-invoices-000014,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000028,synthetic-e680a51d7913,true,e680a51d7913-invoices-000014,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000029,synthetic-e680a51d7913,true,e680a51d7913-invoices-000015,[SYNTHETIC] Consulting services,1,392000,392000
+e680a51d7913-invoice_lines-000030,synthetic-e680a51d7913,true,e680a51d7913-invoices-000015,[SYNTHETIC] Workshop/handoff,1,98000,98000
+e680a51d7913-invoice_lines-000031,synthetic-e680a51d7913,true,e680a51d7913-invoices-000016,[SYNTHETIC] Consulting services,1,840000,840000
+e680a51d7913-invoice_lines-000032,synthetic-e680a51d7913,true,e680a51d7913-invoices-000016,[SYNTHETIC] Workshop/handoff,1,210000,210000
+e680a51d7913-invoice_lines-000033,synthetic-e680a51d7913,true,e680a51d7913-invoices-000017,[SYNTHETIC] Consulting services,1,504000,504000
+e680a51d7913-invoice_lines-000034,synthetic-e680a51d7913,true,e680a51d7913-invoices-000017,[SYNTHETIC] Workshop/handoff,1,126000,126000
+e680a51d7913-invoice_lines-000035,synthetic-e680a51d7913,true,e680a51d7913-invoices-000018,[SYNTHETIC] Consulting services,1,336000,336000
+e680a51d7913-invoice_lines-000036,synthetic-e680a51d7913,true,e680a51d7913-invoices-000018,[SYNTHETIC] Workshop/handoff,1,84000,84000
+e680a51d7913-invoice_lines-000037,synthetic-e680a51d7913,true,e680a51d7913-invoices-000019,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000038,synthetic-e680a51d7913,true,e680a51d7913-invoices-000019,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000039,synthetic-e680a51d7913,true,e680a51d7913-invoices-000020,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000040,synthetic-e680a51d7913,true,e680a51d7913-invoices-000020,[SYNTHETIC] Workshop/handoff,1,132000,132000
+e680a51d7913-invoice_lines-000041,synthetic-e680a51d7913,true,e680a51d7913-invoices-000021,[SYNTHETIC] Consulting services,1,352000,352000
+e680a51d7913-invoice_lines-000042,synthetic-e680a51d7913,true,e680a51d7913-invoices-000021,[SYNTHETIC] Workshop/handoff,1,88000,88000
+e680a51d7913-invoice_lines-000043,synthetic-e680a51d7913,true,e680a51d7913-invoices-000022,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000044,synthetic-e680a51d7913,true,e680a51d7913-invoices-000022,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000045,synthetic-e680a51d7913,true,e680a51d7913-invoices-000023,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000046,synthetic-e680a51d7913,true,e680a51d7913-invoices-000023,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000047,synthetic-e680a51d7913,true,e680a51d7913-invoices-000024,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000048,synthetic-e680a51d7913,true,e680a51d7913-invoices-000024,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000049,synthetic-e680a51d7913,true,e680a51d7913-invoices-000025,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000050,synthetic-e680a51d7913,true,e680a51d7913-invoices-000025,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000051,synthetic-e680a51d7913,true,e680a51d7913-invoices-000026,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000052,synthetic-e680a51d7913,true,e680a51d7913-invoices-000026,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000053,synthetic-e680a51d7913,true,e680a51d7913-invoices-000027,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000054,synthetic-e680a51d7913,true,e680a51d7913-invoices-000027,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000055,synthetic-e680a51d7913,true,e680a51d7913-invoices-000028,[SYNTHETIC] Consulting services,1,500000,500000
+e680a51d7913-invoice_lines-000056,synthetic-e680a51d7913,true,e680a51d7913-invoices-000028,[SYNTHETIC] Workshop/handoff,1,125000,125000
+e680a51d7913-invoice_lines-000057,synthetic-e680a51d7913,true,e680a51d7913-invoices-000029,[SYNTHETIC] Consulting services,1,300000,300000
+e680a51d7913-invoice_lines-000058,synthetic-e680a51d7913,true,e680a51d7913-invoices-000029,[SYNTHETIC] Workshop/handoff,1,75000,75000
+e680a51d7913-invoice_lines-000059,synthetic-e680a51d7913,true,e680a51d7913-invoices-000030,[SYNTHETIC] Consulting services,1,200000,200000
+e680a51d7913-invoice_lines-000060,synthetic-e680a51d7913,true,e680a51d7913-invoices-000030,[SYNTHETIC] Workshop/handoff,1,50000,50000
+e680a51d7913-invoice_lines-000061,synthetic-e680a51d7913,true,e680a51d7913-invoices-000031,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000062,synthetic-e680a51d7913,true,e680a51d7913-invoices-000031,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000063,synthetic-e680a51d7913,true,e680a51d7913-invoices-000032,[SYNTHETIC] Consulting services,1,324000,324000
+e680a51d7913-invoice_lines-000064,synthetic-e680a51d7913,true,e680a51d7913-invoices-000032,[SYNTHETIC] Workshop/handoff,1,81000,81000
+e680a51d7913-invoice_lines-000065,synthetic-e680a51d7913,true,e680a51d7913-invoices-000033,[SYNTHETIC] Consulting services,1,216000,216000
+e680a51d7913-invoice_lines-000066,synthetic-e680a51d7913,true,e680a51d7913-invoices-000033,[SYNTHETIC] Workshop/handoff,1,54000,54000
+e680a51d7913-invoice_lines-000067,synthetic-e680a51d7913,true,e680a51d7913-invoices-000034,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000068,synthetic-e680a51d7913,true,e680a51d7913-invoices-000034,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000069,synthetic-e680a51d7913,true,e680a51d7913-invoices-000035,[SYNTHETIC] Consulting services,1,288000,288000
+e680a51d7913-invoice_lines-000070,synthetic-e680a51d7913,true,e680a51d7913-invoices-000035,[SYNTHETIC] Workshop/handoff,1,72000,72000
+e680a51d7913-invoice_lines-000071,synthetic-e680a51d7913,true,e680a51d7913-invoices-000036,[SYNTHETIC] Consulting services,1,192000,192000
+e680a51d7913-invoice_lines-000072,synthetic-e680a51d7913,true,e680a51d7913-invoices-000036,[SYNTHETIC] Workshop/handoff,1,48000,48000
+e680a51d7913-invoice_lines-000073,synthetic-e680a51d7913,true,e680a51d7913-invoices-000037,[SYNTHETIC] Consulting services,1,520000,520000
+e680a51d7913-invoice_lines-000074,synthetic-e680a51d7913,true,e680a51d7913-invoices-000037,[SYNTHETIC] Workshop/handoff,1,130000,130000
+e680a51d7913-invoice_lines-000075,synthetic-e680a51d7913,true,e680a51d7913-invoices-000038,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000076,synthetic-e680a51d7913,true,e680a51d7913-invoices-000038,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000077,synthetic-e680a51d7913,true,e680a51d7913-invoices-000039,[SYNTHETIC] Consulting services,1,208000,208000
+e680a51d7913-invoice_lines-000078,synthetic-e680a51d7913,true,e680a51d7913-invoices-000039,[SYNTHETIC] Workshop/handoff,1,52000,52000
+e680a51d7913-invoice_lines-000079,synthetic-e680a51d7913,true,e680a51d7913-invoices-000040,[SYNTHETIC] Consulting services,1,740000,740000
+e680a51d7913-invoice_lines-000080,synthetic-e680a51d7913,true,e680a51d7913-invoices-000040,[SYNTHETIC] Workshop/handoff,1,185000,185000
+e680a51d7913-invoice_lines-000081,synthetic-e680a51d7913,true,e680a51d7913-invoices-000041,[SYNTHETIC] Consulting services,1,444000,444000
+e680a51d7913-invoice_lines-000082,synthetic-e680a51d7913,true,e680a51d7913-invoices-000041,[SYNTHETIC] Workshop/handoff,1,111000,111000
+e680a51d7913-invoice_lines-000083,synthetic-e680a51d7913,true,e680a51d7913-invoices-000042,[SYNTHETIC] Consulting services,1,296000,296000
+e680a51d7913-invoice_lines-000084,synthetic-e680a51d7913,true,e680a51d7913-invoices-000042,[SYNTHETIC] Workshop/handoff,1,74000,74000
+e680a51d7913-invoice_lines-000085,synthetic-e680a51d7913,true,e680a51d7913-invoices-000043,[SYNTHETIC] Consulting services,1,780000,780000
+e680a51d7913-invoice_lines-000086,synthetic-e680a51d7913,true,e680a51d7913-invoices-000043,[SYNTHETIC] Workshop/handoff,1,195000,195000
+e680a51d7913-invoice_lines-000087,synthetic-e680a51d7913,true,e680a51d7913-invoices-000044,[SYNTHETIC] Consulting services,1,468000,468000
+e680a51d7913-invoice_lines-000088,synthetic-e680a51d7913,true,e680a51d7913-invoices-000044,[SYNTHETIC] Workshop/handoff,1,117000,117000
+e680a51d7913-invoice_lines-000089,synthetic-e680a51d7913,true,e680a51d7913-invoices-000045,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000090,synthetic-e680a51d7913,true,e680a51d7913-invoices-000045,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000091,synthetic-e680a51d7913,true,e680a51d7913-invoices-000046,[SYNTHETIC] Consulting services,1,1020000,1020000
+e680a51d7913-invoice_lines-000092,synthetic-e680a51d7913,true,e680a51d7913-invoices-000046,[SYNTHETIC] Workshop/handoff,1,255000,255000
+e680a51d7913-invoice_lines-000093,synthetic-e680a51d7913,true,e680a51d7913-invoices-000047,[SYNTHETIC] Consulting services,1,612000,612000
+e680a51d7913-invoice_lines-000094,synthetic-e680a51d7913,true,e680a51d7913-invoices-000047,[SYNTHETIC] Workshop/handoff,1,153000,153000
+e680a51d7913-invoice_lines-000095,synthetic-e680a51d7913,true,e680a51d7913-invoices-000048,[SYNTHETIC] Consulting services,1,408000,408000
+e680a51d7913-invoice_lines-000096,synthetic-e680a51d7913,true,e680a51d7913-invoices-000048,[SYNTHETIC] Workshop/handoff,1,102000,102000
+e680a51d7913-invoice_lines-000097,synthetic-e680a51d7913,true,e680a51d7913-invoices-000049,[SYNTHETIC] Consulting services,1,900000,900000
+e680a51d7913-invoice_lines-000098,synthetic-e680a51d7913,true,e680a51d7913-invoices-000049,[SYNTHETIC] Workshop/handoff,1,225000,225000
+e680a51d7913-invoice_lines-000099,synthetic-e680a51d7913,true,e680a51d7913-invoices-000050,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000100,synthetic-e680a51d7913,true,e680a51d7913-invoices-000050,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000101,synthetic-e680a51d7913,true,e680a51d7913-invoices-000051,[SYNTHETIC] Consulting services,1,360000,360000
+e680a51d7913-invoice_lines-000102,synthetic-e680a51d7913,true,e680a51d7913-invoices-000051,[SYNTHETIC] Workshop/handoff,1,90000,90000
+e680a51d7913-invoice_lines-000103,synthetic-e680a51d7913,true,e680a51d7913-invoices-000052,[SYNTHETIC] Consulting services,1,760000,760000
+e680a51d7913-invoice_lines-000104,synthetic-e680a51d7913,true,e680a51d7913-invoices-000052,[SYNTHETIC] Workshop/handoff,1,190000,190000
+e680a51d7913-invoice_lines-000105,synthetic-e680a51d7913,true,e680a51d7913-invoices-000053,[SYNTHETIC] Consulting services,1,456000,456000
+e680a51d7913-invoice_lines-000106,synthetic-e680a51d7913,true,e680a51d7913-invoices-000053,[SYNTHETIC] Workshop/handoff,1,114000,114000
+e680a51d7913-invoice_lines-000107,synthetic-e680a51d7913,true,e680a51d7913-invoices-000054,[SYNTHETIC] Consulting services,1,304000,304000
+e680a51d7913-invoice_lines-000108,synthetic-e680a51d7913,true,e680a51d7913-invoices-000054,[SYNTHETIC] Workshop/handoff,1,76000,76000
+e680a51d7913-invoice_lines-000109,synthetic-e680a51d7913,true,e680a51d7913-invoices-000055,[SYNTHETIC] Consulting services,1,800000,800000
+e680a51d7913-invoice_lines-000110,synthetic-e680a51d7913,true,e680a51d7913-invoices-000055,[SYNTHETIC] Workshop/handoff,1,200000,200000
+e680a51d7913-invoice_lines-000111,synthetic-e680a51d7913,true,e680a51d7913-invoices-000056,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000112,synthetic-e680a51d7913,true,e680a51d7913-invoices-000056,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000113,synthetic-e680a51d7913,true,e680a51d7913-invoices-000057,[SYNTHETIC] Consulting services,1,320000,320000
+e680a51d7913-invoice_lines-000114,synthetic-e680a51d7913,true,e680a51d7913-invoices-000057,[SYNTHETIC] Workshop/handoff,1,80000,80000
+e680a51d7913-invoice_lines-000115,synthetic-e680a51d7913,true,e680a51d7913-invoices-000058,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000116,synthetic-e680a51d7913,true,e680a51d7913-invoices-000058,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000117,synthetic-e680a51d7913,true,e680a51d7913-invoices-000059,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000118,synthetic-e680a51d7913,true,e680a51d7913-invoices-000059,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000119,synthetic-e680a51d7913,true,e680a51d7913-invoices-000060,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000120,synthetic-e680a51d7913,true,e680a51d7913-invoices-000060,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000121,synthetic-e680a51d7913,true,e680a51d7913-invoices-000061,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000122,synthetic-e680a51d7913,true,e680a51d7913-invoices-000061,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000123,synthetic-e680a51d7913,true,e680a51d7913-invoices-000062,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000124,synthetic-e680a51d7913,true,e680a51d7913-invoices-000062,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000125,synthetic-e680a51d7913,true,e680a51d7913-invoices-000063,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000126,synthetic-e680a51d7913,true,e680a51d7913-invoices-000063,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000127,synthetic-e680a51d7913,true,e680a51d7913-invoices-000064,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000128,synthetic-e680a51d7913,true,e680a51d7913-invoices-000064,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000129,synthetic-e680a51d7913,true,e680a51d7913-invoices-000065,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000130,synthetic-e680a51d7913,true,e680a51d7913-invoices-000065,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000131,synthetic-e680a51d7913,true,e680a51d7913-invoices-000066,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000132,synthetic-e680a51d7913,true,e680a51d7913-invoices-000066,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000133,synthetic-e680a51d7913,true,e680a51d7913-invoices-000067,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000134,synthetic-e680a51d7913,true,e680a51d7913-invoices-000067,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000135,synthetic-e680a51d7913,true,e680a51d7913-invoices-000068,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000136,synthetic-e680a51d7913,true,e680a51d7913-invoices-000068,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000137,synthetic-e680a51d7913,true,e680a51d7913-invoices-000069,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000138,synthetic-e680a51d7913,true,e680a51d7913-invoices-000069,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000139,synthetic-e680a51d7913,true,e680a51d7913-invoices-000070,[SYNTHETIC] Consulting services,1,560000,560000
+e680a51d7913-invoice_lines-000140,synthetic-e680a51d7913,true,e680a51d7913-invoices-000070,[SYNTHETIC] Workshop/handoff,1,140000,140000
+e680a51d7913-invoice_lines-000141,synthetic-e680a51d7913,true,e680a51d7913-invoices-000071,[SYNTHETIC] Consulting services,1,336000,336000
+e680a51d7913-invoice_lines-000142,synthetic-e680a51d7913,true,e680a51d7913-invoices-000071,[SYNTHETIC] Workshop/handoff,1,84000,84000
+e680a51d7913-invoice_lines-000143,synthetic-e680a51d7913,true,e680a51d7913-invoices-000072,[SYNTHETIC] Consulting services,1,224000,224000
+e680a51d7913-invoice_lines-000144,synthetic-e680a51d7913,true,e680a51d7913-invoices-000072,[SYNTHETIC] Workshop/handoff,1,56000,56000
+e680a51d7913-invoice_lines-000145,synthetic-e680a51d7913,true,e680a51d7913-invoices-000073,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000146,synthetic-e680a51d7913,true,e680a51d7913-invoices-000073,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000147,synthetic-e680a51d7913,true,e680a51d7913-invoices-000074,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000148,synthetic-e680a51d7913,true,e680a51d7913-invoices-000074,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000149,synthetic-e680a51d7913,true,e680a51d7913-invoices-000075,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000150,synthetic-e680a51d7913,true,e680a51d7913-invoices-000075,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000151,synthetic-e680a51d7913,true,e680a51d7913-invoices-000076,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000152,synthetic-e680a51d7913,true,e680a51d7913-invoices-000076,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000153,synthetic-e680a51d7913,true,e680a51d7913-invoices-000077,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000154,synthetic-e680a51d7913,true,e680a51d7913-invoices-000077,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000155,synthetic-e680a51d7913,true,e680a51d7913-invoices-000078,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000156,synthetic-e680a51d7913,true,e680a51d7913-invoices-000078,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000157,synthetic-e680a51d7913,true,e680a51d7913-invoices-000079,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000158,synthetic-e680a51d7913,true,e680a51d7913-invoices-000079,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000159,synthetic-e680a51d7913,true,e680a51d7913-invoices-000080,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000160,synthetic-e680a51d7913,true,e680a51d7913-invoices-000080,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000161,synthetic-e680a51d7913,true,e680a51d7913-invoices-000081,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000162,synthetic-e680a51d7913,true,e680a51d7913-invoices-000081,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000163,synthetic-e680a51d7913,true,e680a51d7913-invoices-000082,[SYNTHETIC] Consulting services,1,940000,940000
+e680a51d7913-invoice_lines-000164,synthetic-e680a51d7913,true,e680a51d7913-invoices-000082,[SYNTHETIC] Workshop/handoff,1,235000,235000
+e680a51d7913-invoice_lines-000165,synthetic-e680a51d7913,true,e680a51d7913-invoices-000083,[SYNTHETIC] Consulting services,1,564000,564000
+e680a51d7913-invoice_lines-000166,synthetic-e680a51d7913,true,e680a51d7913-invoices-000083,[SYNTHETIC] Workshop/handoff,1,141000,141000
+e680a51d7913-invoice_lines-000167,synthetic-e680a51d7913,true,e680a51d7913-invoices-000084,[SYNTHETIC] Consulting services,1,376000,376000
+e680a51d7913-invoice_lines-000168,synthetic-e680a51d7913,true,e680a51d7913-invoices-000084,[SYNTHETIC] Workshop/handoff,1,94000,94000
+e680a51d7913-invoice_lines-000169,synthetic-e680a51d7913,true,e680a51d7913-invoices-000085,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000170,synthetic-e680a51d7913,true,e680a51d7913-invoices-000085,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000171,synthetic-e680a51d7913,true,e680a51d7913-invoices-000086,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000172,synthetic-e680a51d7913,true,e680a51d7913-invoices-000086,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000173,synthetic-e680a51d7913,true,e680a51d7913-invoices-000087,[SYNTHETIC] Consulting services,1,392000,392000
+e680a51d7913-invoice_lines-000174,synthetic-e680a51d7913,true,e680a51d7913-invoices-000087,[SYNTHETIC] Workshop/handoff,1,98000,98000
+e680a51d7913-invoice_lines-000175,synthetic-e680a51d7913,true,e680a51d7913-invoices-000088,[SYNTHETIC] Consulting services,1,840000,840000
+e680a51d7913-invoice_lines-000176,synthetic-e680a51d7913,true,e680a51d7913-invoices-000088,[SYNTHETIC] Workshop/handoff,1,210000,210000
+e680a51d7913-invoice_lines-000177,synthetic-e680a51d7913,true,e680a51d7913-invoices-000089,[SYNTHETIC] Consulting services,1,504000,504000
+e680a51d7913-invoice_lines-000178,synthetic-e680a51d7913,true,e680a51d7913-invoices-000089,[SYNTHETIC] Workshop/handoff,1,126000,126000
+e680a51d7913-invoice_lines-000179,synthetic-e680a51d7913,true,e680a51d7913-invoices-000090,[SYNTHETIC] Consulting services,1,336000,336000
+e680a51d7913-invoice_lines-000180,synthetic-e680a51d7913,true,e680a51d7913-invoices-000090,[SYNTHETIC] Workshop/handoff,1,84000,84000
+e680a51d7913-invoice_lines-000181,synthetic-e680a51d7913,true,e680a51d7913-invoices-000091,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000182,synthetic-e680a51d7913,true,e680a51d7913-invoices-000091,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000183,synthetic-e680a51d7913,true,e680a51d7913-invoices-000092,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000184,synthetic-e680a51d7913,true,e680a51d7913-invoices-000092,[SYNTHETIC] Workshop/handoff,1,132000,132000
+e680a51d7913-invoice_lines-000185,synthetic-e680a51d7913,true,e680a51d7913-invoices-000093,[SYNTHETIC] Consulting services,1,352000,352000
+e680a51d7913-invoice_lines-000186,synthetic-e680a51d7913,true,e680a51d7913-invoices-000093,[SYNTHETIC] Workshop/handoff,1,88000,88000
+e680a51d7913-invoice_lines-000187,synthetic-e680a51d7913,true,e680a51d7913-invoices-000094,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000188,synthetic-e680a51d7913,true,e680a51d7913-invoices-000094,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000189,synthetic-e680a51d7913,true,e680a51d7913-invoices-000095,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000190,synthetic-e680a51d7913,true,e680a51d7913-invoices-000095,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000191,synthetic-e680a51d7913,true,e680a51d7913-invoices-000096,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000192,synthetic-e680a51d7913,true,e680a51d7913-invoices-000096,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000193,synthetic-e680a51d7913,true,e680a51d7913-invoices-000097,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000194,synthetic-e680a51d7913,true,e680a51d7913-invoices-000097,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000195,synthetic-e680a51d7913,true,e680a51d7913-invoices-000098,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000196,synthetic-e680a51d7913,true,e680a51d7913-invoices-000098,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000197,synthetic-e680a51d7913,true,e680a51d7913-invoices-000099,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000198,synthetic-e680a51d7913,true,e680a51d7913-invoices-000099,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000199,synthetic-e680a51d7913,true,e680a51d7913-invoices-000100,[SYNTHETIC] Consulting services,1,500000,500000
+e680a51d7913-invoice_lines-000200,synthetic-e680a51d7913,true,e680a51d7913-invoices-000100,[SYNTHETIC] Workshop/handoff,1,125000,125000
+e680a51d7913-invoice_lines-000201,synthetic-e680a51d7913,true,e680a51d7913-invoices-000101,[SYNTHETIC] Consulting services,1,300000,300000
+e680a51d7913-invoice_lines-000202,synthetic-e680a51d7913,true,e680a51d7913-invoices-000101,[SYNTHETIC] Workshop/handoff,1,75000,75000
+e680a51d7913-invoice_lines-000203,synthetic-e680a51d7913,true,e680a51d7913-invoices-000102,[SYNTHETIC] Consulting services,1,200000,200000
+e680a51d7913-invoice_lines-000204,synthetic-e680a51d7913,true,e680a51d7913-invoices-000102,[SYNTHETIC] Workshop/handoff,1,50000,50000
+e680a51d7913-invoice_lines-000205,synthetic-e680a51d7913,true,e680a51d7913-invoices-000103,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000206,synthetic-e680a51d7913,true,e680a51d7913-invoices-000103,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000207,synthetic-e680a51d7913,true,e680a51d7913-invoices-000104,[SYNTHETIC] Consulting services,1,324000,324000
+e680a51d7913-invoice_lines-000208,synthetic-e680a51d7913,true,e680a51d7913-invoices-000104,[SYNTHETIC] Workshop/handoff,1,81000,81000
+e680a51d7913-invoice_lines-000209,synthetic-e680a51d7913,true,e680a51d7913-invoices-000105,[SYNTHETIC] Consulting services,1,216000,216000
+e680a51d7913-invoice_lines-000210,synthetic-e680a51d7913,true,e680a51d7913-invoices-000105,[SYNTHETIC] Workshop/handoff,1,54000,54000
+e680a51d7913-invoice_lines-000211,synthetic-e680a51d7913,true,e680a51d7913-invoices-000106,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000212,synthetic-e680a51d7913,true,e680a51d7913-invoices-000106,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000213,synthetic-e680a51d7913,true,e680a51d7913-invoices-000107,[SYNTHETIC] Consulting services,1,288000,288000
+e680a51d7913-invoice_lines-000214,synthetic-e680a51d7913,true,e680a51d7913-invoices-000107,[SYNTHETIC] Workshop/handoff,1,72000,72000
+e680a51d7913-invoice_lines-000215,synthetic-e680a51d7913,true,e680a51d7913-invoices-000108,[SYNTHETIC] Consulting services,1,192000,192000
+e680a51d7913-invoice_lines-000216,synthetic-e680a51d7913,true,e680a51d7913-invoices-000108,[SYNTHETIC] Workshop/handoff,1,48000,48000
+e680a51d7913-invoice_lines-000217,synthetic-e680a51d7913,true,e680a51d7913-invoices-000109,[SYNTHETIC] Consulting services,1,520000,520000
+e680a51d7913-invoice_lines-000218,synthetic-e680a51d7913,true,e680a51d7913-invoices-000109,[SYNTHETIC] Workshop/handoff,1,130000,130000
+e680a51d7913-invoice_lines-000219,synthetic-e680a51d7913,true,e680a51d7913-invoices-000110,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000220,synthetic-e680a51d7913,true,e680a51d7913-invoices-000110,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000221,synthetic-e680a51d7913,true,e680a51d7913-invoices-000111,[SYNTHETIC] Consulting services,1,208000,208000
+e680a51d7913-invoice_lines-000222,synthetic-e680a51d7913,true,e680a51d7913-invoices-000111,[SYNTHETIC] Workshop/handoff,1,52000,52000
+e680a51d7913-invoice_lines-000223,synthetic-e680a51d7913,true,e680a51d7913-invoices-000112,[SYNTHETIC] Consulting services,1,740000,740000
+e680a51d7913-invoice_lines-000224,synthetic-e680a51d7913,true,e680a51d7913-invoices-000112,[SYNTHETIC] Workshop/handoff,1,185000,185000
+e680a51d7913-invoice_lines-000225,synthetic-e680a51d7913,true,e680a51d7913-invoices-000113,[SYNTHETIC] Consulting services,1,444000,444000
+e680a51d7913-invoice_lines-000226,synthetic-e680a51d7913,true,e680a51d7913-invoices-000113,[SYNTHETIC] Workshop/handoff,1,111000,111000
+e680a51d7913-invoice_lines-000227,synthetic-e680a51d7913,true,e680a51d7913-invoices-000114,[SYNTHETIC] Consulting services,1,296000,296000
+e680a51d7913-invoice_lines-000228,synthetic-e680a51d7913,true,e680a51d7913-invoices-000114,[SYNTHETIC] Workshop/handoff,1,74000,74000
+e680a51d7913-invoice_lines-000229,synthetic-e680a51d7913,true,e680a51d7913-invoices-000115,[SYNTHETIC] Consulting services,1,780000,780000
+e680a51d7913-invoice_lines-000230,synthetic-e680a51d7913,true,e680a51d7913-invoices-000115,[SYNTHETIC] Workshop/handoff,1,195000,195000
+e680a51d7913-invoice_lines-000231,synthetic-e680a51d7913,true,e680a51d7913-invoices-000116,[SYNTHETIC] Consulting services,1,468000,468000
+e680a51d7913-invoice_lines-000232,synthetic-e680a51d7913,true,e680a51d7913-invoices-000116,[SYNTHETIC] Workshop/handoff,1,117000,117000
+e680a51d7913-invoice_lines-000233,synthetic-e680a51d7913,true,e680a51d7913-invoices-000117,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000234,synthetic-e680a51d7913,true,e680a51d7913-invoices-000117,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000235,synthetic-e680a51d7913,true,e680a51d7913-invoices-000118,[SYNTHETIC] Consulting services,1,1020000,1020000
+e680a51d7913-invoice_lines-000236,synthetic-e680a51d7913,true,e680a51d7913-invoices-000118,[SYNTHETIC] Workshop/handoff,1,255000,255000
+e680a51d7913-invoice_lines-000237,synthetic-e680a51d7913,true,e680a51d7913-invoices-000119,[SYNTHETIC] Consulting services,1,612000,612000
+e680a51d7913-invoice_lines-000238,synthetic-e680a51d7913,true,e680a51d7913-invoices-000119,[SYNTHETIC] Workshop/handoff,1,153000,153000
+e680a51d7913-invoice_lines-000239,synthetic-e680a51d7913,true,e680a51d7913-invoices-000120,[SYNTHETIC] Consulting services,1,408000,408000
+e680a51d7913-invoice_lines-000240,synthetic-e680a51d7913,true,e680a51d7913-invoices-000120,[SYNTHETIC] Workshop/handoff,1,102000,102000
+e680a51d7913-invoice_lines-000241,synthetic-e680a51d7913,true,e680a51d7913-invoices-000121,[SYNTHETIC] Consulting services,1,900000,900000
+e680a51d7913-invoice_lines-000242,synthetic-e680a51d7913,true,e680a51d7913-invoices-000121,[SYNTHETIC] Workshop/handoff,1,225000,225000
+e680a51d7913-invoice_lines-000243,synthetic-e680a51d7913,true,e680a51d7913-invoices-000122,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000244,synthetic-e680a51d7913,true,e680a51d7913-invoices-000122,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000245,synthetic-e680a51d7913,true,e680a51d7913-invoices-000123,[SYNTHETIC] Consulting services,1,360000,360000
+e680a51d7913-invoice_lines-000246,synthetic-e680a51d7913,true,e680a51d7913-invoices-000123,[SYNTHETIC] Workshop/handoff,1,90000,90000
+e680a51d7913-invoice_lines-000247,synthetic-e680a51d7913,true,e680a51d7913-invoices-000124,[SYNTHETIC] Consulting services,1,760000,760000
+e680a51d7913-invoice_lines-000248,synthetic-e680a51d7913,true,e680a51d7913-invoices-000124,[SYNTHETIC] Workshop/handoff,1,190000,190000
+e680a51d7913-invoice_lines-000249,synthetic-e680a51d7913,true,e680a51d7913-invoices-000125,[SYNTHETIC] Consulting services,1,456000,456000
+e680a51d7913-invoice_lines-000250,synthetic-e680a51d7913,true,e680a51d7913-invoices-000125,[SYNTHETIC] Workshop/handoff,1,114000,114000
+e680a51d7913-invoice_lines-000251,synthetic-e680a51d7913,true,e680a51d7913-invoices-000126,[SYNTHETIC] Consulting services,1,304000,304000
+e680a51d7913-invoice_lines-000252,synthetic-e680a51d7913,true,e680a51d7913-invoices-000126,[SYNTHETIC] Workshop/handoff,1,76000,76000
+e680a51d7913-invoice_lines-000253,synthetic-e680a51d7913,true,e680a51d7913-invoices-000127,[SYNTHETIC] Consulting services,1,800000,800000
+e680a51d7913-invoice_lines-000254,synthetic-e680a51d7913,true,e680a51d7913-invoices-000127,[SYNTHETIC] Workshop/handoff,1,200000,200000
+e680a51d7913-invoice_lines-000255,synthetic-e680a51d7913,true,e680a51d7913-invoices-000128,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000256,synthetic-e680a51d7913,true,e680a51d7913-invoices-000128,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000257,synthetic-e680a51d7913,true,e680a51d7913-invoices-000129,[SYNTHETIC] Consulting services,1,320000,320000
+e680a51d7913-invoice_lines-000258,synthetic-e680a51d7913,true,e680a51d7913-invoices-000129,[SYNTHETIC] Workshop/handoff,1,80000,80000
+e680a51d7913-invoice_lines-000259,synthetic-e680a51d7913,true,e680a51d7913-invoices-000130,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000260,synthetic-e680a51d7913,true,e680a51d7913-invoices-000130,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000261,synthetic-e680a51d7913,true,e680a51d7913-invoices-000131,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000262,synthetic-e680a51d7913,true,e680a51d7913-invoices-000131,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000263,synthetic-e680a51d7913,true,e680a51d7913-invoices-000132,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000264,synthetic-e680a51d7913,true,e680a51d7913-invoices-000132,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000265,synthetic-e680a51d7913,true,e680a51d7913-invoices-000133,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000266,synthetic-e680a51d7913,true,e680a51d7913-invoices-000133,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000267,synthetic-e680a51d7913,true,e680a51d7913-invoices-000134,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000268,synthetic-e680a51d7913,true,e680a51d7913-invoices-000134,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000269,synthetic-e680a51d7913,true,e680a51d7913-invoices-000135,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000270,synthetic-e680a51d7913,true,e680a51d7913-invoices-000135,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000271,synthetic-e680a51d7913,true,e680a51d7913-invoices-000136,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000272,synthetic-e680a51d7913,true,e680a51d7913-invoices-000136,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000273,synthetic-e680a51d7913,true,e680a51d7913-invoices-000137,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000274,synthetic-e680a51d7913,true,e680a51d7913-invoices-000137,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000275,synthetic-e680a51d7913,true,e680a51d7913-invoices-000138,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000276,synthetic-e680a51d7913,true,e680a51d7913-invoices-000138,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000277,synthetic-e680a51d7913,true,e680a51d7913-invoices-000139,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000278,synthetic-e680a51d7913,true,e680a51d7913-invoices-000139,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000279,synthetic-e680a51d7913,true,e680a51d7913-invoices-000140,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000280,synthetic-e680a51d7913,true,e680a51d7913-invoices-000140,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000281,synthetic-e680a51d7913,true,e680a51d7913-invoices-000141,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000282,synthetic-e680a51d7913,true,e680a51d7913-invoices-000141,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000283,synthetic-e680a51d7913,true,e680a51d7913-invoices-000142,[SYNTHETIC] Consulting services,1,560000,560000
+e680a51d7913-invoice_lines-000284,synthetic-e680a51d7913,true,e680a51d7913-invoices-000142,[SYNTHETIC] Workshop/handoff,1,140000,140000
+e680a51d7913-invoice_lines-000285,synthetic-e680a51d7913,true,e680a51d7913-invoices-000143,[SYNTHETIC] Consulting services,1,336000,336000
+e680a51d7913-invoice_lines-000286,synthetic-e680a51d7913,true,e680a51d7913-invoices-000143,[SYNTHETIC] Workshop/handoff,1,84000,84000
+e680a51d7913-invoice_lines-000287,synthetic-e680a51d7913,true,e680a51d7913-invoices-000144,[SYNTHETIC] Consulting services,1,224000,224000
+e680a51d7913-invoice_lines-000288,synthetic-e680a51d7913,true,e680a51d7913-invoices-000144,[SYNTHETIC] Workshop/handoff,1,56000,56000
+e680a51d7913-invoice_lines-000289,synthetic-e680a51d7913,true,e680a51d7913-invoices-000145,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000290,synthetic-e680a51d7913,true,e680a51d7913-invoices-000145,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000291,synthetic-e680a51d7913,true,e680a51d7913-invoices-000146,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000292,synthetic-e680a51d7913,true,e680a51d7913-invoices-000146,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000293,synthetic-e680a51d7913,true,e680a51d7913-invoices-000147,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000294,synthetic-e680a51d7913,true,e680a51d7913-invoices-000147,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000295,synthetic-e680a51d7913,true,e680a51d7913-invoices-000148,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000296,synthetic-e680a51d7913,true,e680a51d7913-invoices-000148,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000297,synthetic-e680a51d7913,true,e680a51d7913-invoices-000149,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000298,synthetic-e680a51d7913,true,e680a51d7913-invoices-000149,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000299,synthetic-e680a51d7913,true,e680a51d7913-invoices-000150,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000300,synthetic-e680a51d7913,true,e680a51d7913-invoices-000150,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000301,synthetic-e680a51d7913,true,e680a51d7913-invoices-000151,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000302,synthetic-e680a51d7913,true,e680a51d7913-invoices-000151,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000303,synthetic-e680a51d7913,true,e680a51d7913-invoices-000152,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000304,synthetic-e680a51d7913,true,e680a51d7913-invoices-000152,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000305,synthetic-e680a51d7913,true,e680a51d7913-invoices-000153,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000306,synthetic-e680a51d7913,true,e680a51d7913-invoices-000153,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000307,synthetic-e680a51d7913,true,e680a51d7913-invoices-000154,[SYNTHETIC] Consulting services,1,940000,940000
+e680a51d7913-invoice_lines-000308,synthetic-e680a51d7913,true,e680a51d7913-invoices-000154,[SYNTHETIC] Workshop/handoff,1,235000,235000
+e680a51d7913-invoice_lines-000309,synthetic-e680a51d7913,true,e680a51d7913-invoices-000155,[SYNTHETIC] Consulting services,1,564000,564000
+e680a51d7913-invoice_lines-000310,synthetic-e680a51d7913,true,e680a51d7913-invoices-000155,[SYNTHETIC] Workshop/handoff,1,141000,141000
+e680a51d7913-invoice_lines-000311,synthetic-e680a51d7913,true,e680a51d7913-invoices-000156,[SYNTHETIC] Consulting services,1,376000,376000
+e680a51d7913-invoice_lines-000312,synthetic-e680a51d7913,true,e680a51d7913-invoices-000156,[SYNTHETIC] Workshop/handoff,1,94000,94000
+e680a51d7913-invoice_lines-000313,synthetic-e680a51d7913,true,e680a51d7913-invoices-000157,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000314,synthetic-e680a51d7913,true,e680a51d7913-invoices-000157,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000315,synthetic-e680a51d7913,true,e680a51d7913-invoices-000158,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000316,synthetic-e680a51d7913,true,e680a51d7913-invoices-000158,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000317,synthetic-e680a51d7913,true,e680a51d7913-invoices-000159,[SYNTHETIC] Consulting services,1,392000,392000
+e680a51d7913-invoice_lines-000318,synthetic-e680a51d7913,true,e680a51d7913-invoices-000159,[SYNTHETIC] Workshop/handoff,1,98000,98000
+e680a51d7913-invoice_lines-000319,synthetic-e680a51d7913,true,e680a51d7913-invoices-000160,[SYNTHETIC] Consulting services,1,840000,840000
+e680a51d7913-invoice_lines-000320,synthetic-e680a51d7913,true,e680a51d7913-invoices-000160,[SYNTHETIC] Workshop/handoff,1,210000,210000
+e680a51d7913-invoice_lines-000321,synthetic-e680a51d7913,true,e680a51d7913-invoices-000161,[SYNTHETIC] Consulting services,1,504000,504000
+e680a51d7913-invoice_lines-000322,synthetic-e680a51d7913,true,e680a51d7913-invoices-000161,[SYNTHETIC] Workshop/handoff,1,126000,126000
+e680a51d7913-invoice_lines-000323,synthetic-e680a51d7913,true,e680a51d7913-invoices-000162,[SYNTHETIC] Consulting services,1,336000,336000
+e680a51d7913-invoice_lines-000324,synthetic-e680a51d7913,true,e680a51d7913-invoices-000162,[SYNTHETIC] Workshop/handoff,1,84000,84000
+e680a51d7913-invoice_lines-000325,synthetic-e680a51d7913,true,e680a51d7913-invoices-000163,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000326,synthetic-e680a51d7913,true,e680a51d7913-invoices-000163,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000327,synthetic-e680a51d7913,true,e680a51d7913-invoices-000164,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000328,synthetic-e680a51d7913,true,e680a51d7913-invoices-000164,[SYNTHETIC] Workshop/handoff,1,132000,132000
+e680a51d7913-invoice_lines-000329,synthetic-e680a51d7913,true,e680a51d7913-invoices-000165,[SYNTHETIC] Consulting services,1,352000,352000
+e680a51d7913-invoice_lines-000330,synthetic-e680a51d7913,true,e680a51d7913-invoices-000165,[SYNTHETIC] Workshop/handoff,1,88000,88000
+e680a51d7913-invoice_lines-000331,synthetic-e680a51d7913,true,e680a51d7913-invoices-000166,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000332,synthetic-e680a51d7913,true,e680a51d7913-invoices-000166,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000333,synthetic-e680a51d7913,true,e680a51d7913-invoices-000167,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000334,synthetic-e680a51d7913,true,e680a51d7913-invoices-000167,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000335,synthetic-e680a51d7913,true,e680a51d7913-invoices-000168,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000336,synthetic-e680a51d7913,true,e680a51d7913-invoices-000168,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000337,synthetic-e680a51d7913,true,e680a51d7913-invoices-000169,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000338,synthetic-e680a51d7913,true,e680a51d7913-invoices-000169,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000339,synthetic-e680a51d7913,true,e680a51d7913-invoices-000170,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000340,synthetic-e680a51d7913,true,e680a51d7913-invoices-000170,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000341,synthetic-e680a51d7913,true,e680a51d7913-invoices-000171,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000342,synthetic-e680a51d7913,true,e680a51d7913-invoices-000171,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000343,synthetic-e680a51d7913,true,e680a51d7913-invoices-000172,[SYNTHETIC] Consulting services,1,500000,500000
+e680a51d7913-invoice_lines-000344,synthetic-e680a51d7913,true,e680a51d7913-invoices-000172,[SYNTHETIC] Workshop/handoff,1,125000,125000
+e680a51d7913-invoice_lines-000345,synthetic-e680a51d7913,true,e680a51d7913-invoices-000173,[SYNTHETIC] Consulting services,1,300000,300000
+e680a51d7913-invoice_lines-000346,synthetic-e680a51d7913,true,e680a51d7913-invoices-000173,[SYNTHETIC] Workshop/handoff,1,75000,75000
+e680a51d7913-invoice_lines-000347,synthetic-e680a51d7913,true,e680a51d7913-invoices-000174,[SYNTHETIC] Consulting services,1,200000,200000
+e680a51d7913-invoice_lines-000348,synthetic-e680a51d7913,true,e680a51d7913-invoices-000174,[SYNTHETIC] Workshop/handoff,1,50000,50000
+e680a51d7913-invoice_lines-000349,synthetic-e680a51d7913,true,e680a51d7913-invoices-000175,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000350,synthetic-e680a51d7913,true,e680a51d7913-invoices-000175,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000351,synthetic-e680a51d7913,true,e680a51d7913-invoices-000176,[SYNTHETIC] Consulting services,1,324000,324000
+e680a51d7913-invoice_lines-000352,synthetic-e680a51d7913,true,e680a51d7913-invoices-000176,[SYNTHETIC] Workshop/handoff,1,81000,81000
+e680a51d7913-invoice_lines-000353,synthetic-e680a51d7913,true,e680a51d7913-invoices-000177,[SYNTHETIC] Consulting services,1,216000,216000
+e680a51d7913-invoice_lines-000354,synthetic-e680a51d7913,true,e680a51d7913-invoices-000177,[SYNTHETIC] Workshop/handoff,1,54000,54000
+e680a51d7913-invoice_lines-000355,synthetic-e680a51d7913,true,e680a51d7913-invoices-000178,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000356,synthetic-e680a51d7913,true,e680a51d7913-invoices-000178,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000357,synthetic-e680a51d7913,true,e680a51d7913-invoices-000179,[SYNTHETIC] Consulting services,1,288000,288000
+e680a51d7913-invoice_lines-000358,synthetic-e680a51d7913,true,e680a51d7913-invoices-000179,[SYNTHETIC] Workshop/handoff,1,72000,72000
+e680a51d7913-invoice_lines-000359,synthetic-e680a51d7913,true,e680a51d7913-invoices-000180,[SYNTHETIC] Consulting services,1,192000,192000
+e680a51d7913-invoice_lines-000360,synthetic-e680a51d7913,true,e680a51d7913-invoices-000180,[SYNTHETIC] Workshop/handoff,1,48000,48000
+e680a51d7913-invoice_lines-000361,synthetic-e680a51d7913,true,e680a51d7913-invoices-000181,[SYNTHETIC] Consulting services,1,520000,520000
+e680a51d7913-invoice_lines-000362,synthetic-e680a51d7913,true,e680a51d7913-invoices-000181,[SYNTHETIC] Workshop/handoff,1,130000,130000
+e680a51d7913-invoice_lines-000363,synthetic-e680a51d7913,true,e680a51d7913-invoices-000182,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000364,synthetic-e680a51d7913,true,e680a51d7913-invoices-000182,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000365,synthetic-e680a51d7913,true,e680a51d7913-invoices-000183,[SYNTHETIC] Consulting services,1,208000,208000
+e680a51d7913-invoice_lines-000366,synthetic-e680a51d7913,true,e680a51d7913-invoices-000183,[SYNTHETIC] Workshop/handoff,1,52000,52000
+e680a51d7913-invoice_lines-000367,synthetic-e680a51d7913,true,e680a51d7913-invoices-000184,[SYNTHETIC] Consulting services,1,740000,740000
+e680a51d7913-invoice_lines-000368,synthetic-e680a51d7913,true,e680a51d7913-invoices-000184,[SYNTHETIC] Workshop/handoff,1,185000,185000
+e680a51d7913-invoice_lines-000369,synthetic-e680a51d7913,true,e680a51d7913-invoices-000185,[SYNTHETIC] Consulting services,1,444000,444000
+e680a51d7913-invoice_lines-000370,synthetic-e680a51d7913,true,e680a51d7913-invoices-000185,[SYNTHETIC] Workshop/handoff,1,111000,111000
+e680a51d7913-invoice_lines-000371,synthetic-e680a51d7913,true,e680a51d7913-invoices-000186,[SYNTHETIC] Consulting services,1,296000,296000
+e680a51d7913-invoice_lines-000372,synthetic-e680a51d7913,true,e680a51d7913-invoices-000186,[SYNTHETIC] Workshop/handoff,1,74000,74000
+e680a51d7913-invoice_lines-000373,synthetic-e680a51d7913,true,e680a51d7913-invoices-000187,[SYNTHETIC] Consulting services,1,780000,780000
+e680a51d7913-invoice_lines-000374,synthetic-e680a51d7913,true,e680a51d7913-invoices-000187,[SYNTHETIC] Workshop/handoff,1,195000,195000
+e680a51d7913-invoice_lines-000375,synthetic-e680a51d7913,true,e680a51d7913-invoices-000188,[SYNTHETIC] Consulting services,1,468000,468000
+e680a51d7913-invoice_lines-000376,synthetic-e680a51d7913,true,e680a51d7913-invoices-000188,[SYNTHETIC] Workshop/handoff,1,117000,117000
+e680a51d7913-invoice_lines-000377,synthetic-e680a51d7913,true,e680a51d7913-invoices-000189,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000378,synthetic-e680a51d7913,true,e680a51d7913-invoices-000189,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000379,synthetic-e680a51d7913,true,e680a51d7913-invoices-000190,[SYNTHETIC] Consulting services,1,1020000,1020000
+e680a51d7913-invoice_lines-000380,synthetic-e680a51d7913,true,e680a51d7913-invoices-000190,[SYNTHETIC] Workshop/handoff,1,255000,255000
+e680a51d7913-invoice_lines-000381,synthetic-e680a51d7913,true,e680a51d7913-invoices-000191,[SYNTHETIC] Consulting services,1,612000,612000
+e680a51d7913-invoice_lines-000382,synthetic-e680a51d7913,true,e680a51d7913-invoices-000191,[SYNTHETIC] Workshop/handoff,1,153000,153000
+e680a51d7913-invoice_lines-000383,synthetic-e680a51d7913,true,e680a51d7913-invoices-000192,[SYNTHETIC] Consulting services,1,408000,408000
+e680a51d7913-invoice_lines-000384,synthetic-e680a51d7913,true,e680a51d7913-invoices-000192,[SYNTHETIC] Workshop/handoff,1,102000,102000
+e680a51d7913-invoice_lines-000385,synthetic-e680a51d7913,true,e680a51d7913-invoices-000193,[SYNTHETIC] Consulting services,1,900000,900000
+e680a51d7913-invoice_lines-000386,synthetic-e680a51d7913,true,e680a51d7913-invoices-000193,[SYNTHETIC] Workshop/handoff,1,225000,225000
+e680a51d7913-invoice_lines-000387,synthetic-e680a51d7913,true,e680a51d7913-invoices-000194,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000388,synthetic-e680a51d7913,true,e680a51d7913-invoices-000194,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000389,synthetic-e680a51d7913,true,e680a51d7913-invoices-000195,[SYNTHETIC] Consulting services,1,360000,360000
+e680a51d7913-invoice_lines-000390,synthetic-e680a51d7913,true,e680a51d7913-invoices-000195,[SYNTHETIC] Workshop/handoff,1,90000,90000
+e680a51d7913-invoice_lines-000391,synthetic-e680a51d7913,true,e680a51d7913-invoices-000196,[SYNTHETIC] Consulting services,1,760000,760000
+e680a51d7913-invoice_lines-000392,synthetic-e680a51d7913,true,e680a51d7913-invoices-000196,[SYNTHETIC] Workshop/handoff,1,190000,190000
+e680a51d7913-invoice_lines-000393,synthetic-e680a51d7913,true,e680a51d7913-invoices-000197,[SYNTHETIC] Consulting services,1,456000,456000
+e680a51d7913-invoice_lines-000394,synthetic-e680a51d7913,true,e680a51d7913-invoices-000197,[SYNTHETIC] Workshop/handoff,1,114000,114000
+e680a51d7913-invoice_lines-000395,synthetic-e680a51d7913,true,e680a51d7913-invoices-000198,[SYNTHETIC] Consulting services,1,304000,304000
+e680a51d7913-invoice_lines-000396,synthetic-e680a51d7913,true,e680a51d7913-invoices-000198,[SYNTHETIC] Workshop/handoff,1,76000,76000
+e680a51d7913-invoice_lines-000397,synthetic-e680a51d7913,true,e680a51d7913-invoices-000199,[SYNTHETIC] Consulting services,1,800000,800000
+e680a51d7913-invoice_lines-000398,synthetic-e680a51d7913,true,e680a51d7913-invoices-000199,[SYNTHETIC] Workshop/handoff,1,200000,200000
+e680a51d7913-invoice_lines-000399,synthetic-e680a51d7913,true,e680a51d7913-invoices-000200,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000400,synthetic-e680a51d7913,true,e680a51d7913-invoices-000200,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000401,synthetic-e680a51d7913,true,e680a51d7913-invoices-000201,[SYNTHETIC] Consulting services,1,320000,320000
+e680a51d7913-invoice_lines-000402,synthetic-e680a51d7913,true,e680a51d7913-invoices-000201,[SYNTHETIC] Workshop/handoff,1,80000,80000
+e680a51d7913-invoice_lines-000403,synthetic-e680a51d7913,true,e680a51d7913-invoices-000202,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000404,synthetic-e680a51d7913,true,e680a51d7913-invoices-000202,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000405,synthetic-e680a51d7913,true,e680a51d7913-invoices-000203,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000406,synthetic-e680a51d7913,true,e680a51d7913-invoices-000203,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000407,synthetic-e680a51d7913,true,e680a51d7913-invoices-000204,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000408,synthetic-e680a51d7913,true,e680a51d7913-invoices-000204,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000409,synthetic-e680a51d7913,true,e680a51d7913-invoices-000205,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000410,synthetic-e680a51d7913,true,e680a51d7913-invoices-000205,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000411,synthetic-e680a51d7913,true,e680a51d7913-invoices-000206,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000412,synthetic-e680a51d7913,true,e680a51d7913-invoices-000206,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000413,synthetic-e680a51d7913,true,e680a51d7913-invoices-000207,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000414,synthetic-e680a51d7913,true,e680a51d7913-invoices-000207,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000415,synthetic-e680a51d7913,true,e680a51d7913-invoices-000208,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000416,synthetic-e680a51d7913,true,e680a51d7913-invoices-000208,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000417,synthetic-e680a51d7913,true,e680a51d7913-invoices-000209,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000418,synthetic-e680a51d7913,true,e680a51d7913-invoices-000209,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000419,synthetic-e680a51d7913,true,e680a51d7913-invoices-000210,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000420,synthetic-e680a51d7913,true,e680a51d7913-invoices-000210,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000421,synthetic-e680a51d7913,true,e680a51d7913-invoices-000211,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000422,synthetic-e680a51d7913,true,e680a51d7913-invoices-000211,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000423,synthetic-e680a51d7913,true,e680a51d7913-invoices-000212,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000424,synthetic-e680a51d7913,true,e680a51d7913-invoices-000212,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000425,synthetic-e680a51d7913,true,e680a51d7913-invoices-000213,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000426,synthetic-e680a51d7913,true,e680a51d7913-invoices-000213,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000427,synthetic-e680a51d7913,true,e680a51d7913-invoices-000214,[SYNTHETIC] Consulting services,1,560000,560000
+e680a51d7913-invoice_lines-000428,synthetic-e680a51d7913,true,e680a51d7913-invoices-000214,[SYNTHETIC] Workshop/handoff,1,140000,140000
+e680a51d7913-invoice_lines-000429,synthetic-e680a51d7913,true,e680a51d7913-invoices-000215,[SYNTHETIC] Consulting services,1,336000,336000
+e680a51d7913-invoice_lines-000430,synthetic-e680a51d7913,true,e680a51d7913-invoices-000215,[SYNTHETIC] Workshop/handoff,1,84000,84000
+e680a51d7913-invoice_lines-000431,synthetic-e680a51d7913,true,e680a51d7913-invoices-000216,[SYNTHETIC] Consulting services,1,224000,224000
+e680a51d7913-invoice_lines-000432,synthetic-e680a51d7913,true,e680a51d7913-invoices-000216,[SYNTHETIC] Workshop/handoff,1,56000,56000
+e680a51d7913-invoice_lines-000433,synthetic-e680a51d7913,true,e680a51d7913-invoices-000217,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000434,synthetic-e680a51d7913,true,e680a51d7913-invoices-000217,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000435,synthetic-e680a51d7913,true,e680a51d7913-invoices-000218,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000436,synthetic-e680a51d7913,true,e680a51d7913-invoices-000218,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000437,synthetic-e680a51d7913,true,e680a51d7913-invoices-000219,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000438,synthetic-e680a51d7913,true,e680a51d7913-invoices-000219,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000439,synthetic-e680a51d7913,true,e680a51d7913-invoices-000220,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000440,synthetic-e680a51d7913,true,e680a51d7913-invoices-000220,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000441,synthetic-e680a51d7913,true,e680a51d7913-invoices-000221,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000442,synthetic-e680a51d7913,true,e680a51d7913-invoices-000221,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000443,synthetic-e680a51d7913,true,e680a51d7913-invoices-000222,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000444,synthetic-e680a51d7913,true,e680a51d7913-invoices-000222,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000445,synthetic-e680a51d7913,true,e680a51d7913-invoices-000223,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000446,synthetic-e680a51d7913,true,e680a51d7913-invoices-000223,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000447,synthetic-e680a51d7913,true,e680a51d7913-invoices-000224,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000448,synthetic-e680a51d7913,true,e680a51d7913-invoices-000224,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000449,synthetic-e680a51d7913,true,e680a51d7913-invoices-000225,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000450,synthetic-e680a51d7913,true,e680a51d7913-invoices-000225,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000451,synthetic-e680a51d7913,true,e680a51d7913-invoices-000226,[SYNTHETIC] Consulting services,1,940000,940000
+e680a51d7913-invoice_lines-000452,synthetic-e680a51d7913,true,e680a51d7913-invoices-000226,[SYNTHETIC] Workshop/handoff,1,235000,235000
+e680a51d7913-invoice_lines-000453,synthetic-e680a51d7913,true,e680a51d7913-invoices-000227,[SYNTHETIC] Consulting services,1,564000,564000
+e680a51d7913-invoice_lines-000454,synthetic-e680a51d7913,true,e680a51d7913-invoices-000227,[SYNTHETIC] Workshop/handoff,1,141000,141000
+e680a51d7913-invoice_lines-000455,synthetic-e680a51d7913,true,e680a51d7913-invoices-000228,[SYNTHETIC] Consulting services,1,376000,376000
+e680a51d7913-invoice_lines-000456,synthetic-e680a51d7913,true,e680a51d7913-invoices-000228,[SYNTHETIC] Workshop/handoff,1,94000,94000
+e680a51d7913-invoice_lines-000457,synthetic-e680a51d7913,true,e680a51d7913-invoices-000229,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000458,synthetic-e680a51d7913,true,e680a51d7913-invoices-000229,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000459,synthetic-e680a51d7913,true,e680a51d7913-invoices-000230,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000460,synthetic-e680a51d7913,true,e680a51d7913-invoices-000230,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000461,synthetic-e680a51d7913,true,e680a51d7913-invoices-000231,[SYNTHETIC] Consulting services,1,392000,392000
+e680a51d7913-invoice_lines-000462,synthetic-e680a51d7913,true,e680a51d7913-invoices-000231,[SYNTHETIC] Workshop/handoff,1,98000,98000
+e680a51d7913-invoice_lines-000463,synthetic-e680a51d7913,true,e680a51d7913-invoices-000232,[SYNTHETIC] Consulting services,1,840000,840000
+e680a51d7913-invoice_lines-000464,synthetic-e680a51d7913,true,e680a51d7913-invoices-000232,[SYNTHETIC] Workshop/handoff,1,210000,210000
+e680a51d7913-invoice_lines-000465,synthetic-e680a51d7913,true,e680a51d7913-invoices-000233,[SYNTHETIC] Consulting services,1,504000,504000
+e680a51d7913-invoice_lines-000466,synthetic-e680a51d7913,true,e680a51d7913-invoices-000233,[SYNTHETIC] Workshop/handoff,1,126000,126000
+e680a51d7913-invoice_lines-000467,synthetic-e680a51d7913,true,e680a51d7913-invoices-000234,[SYNTHETIC] Consulting services,1,336000,336000
+e680a51d7913-invoice_lines-000468,synthetic-e680a51d7913,true,e680a51d7913-invoices-000234,[SYNTHETIC] Workshop/handoff,1,84000,84000
+e680a51d7913-invoice_lines-000469,synthetic-e680a51d7913,true,e680a51d7913-invoices-000235,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000470,synthetic-e680a51d7913,true,e680a51d7913-invoices-000235,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000471,synthetic-e680a51d7913,true,e680a51d7913-invoices-000236,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000472,synthetic-e680a51d7913,true,e680a51d7913-invoices-000236,[SYNTHETIC] Workshop/handoff,1,132000,132000
+e680a51d7913-invoice_lines-000473,synthetic-e680a51d7913,true,e680a51d7913-invoices-000237,[SYNTHETIC] Consulting services,1,352000,352000
+e680a51d7913-invoice_lines-000474,synthetic-e680a51d7913,true,e680a51d7913-invoices-000237,[SYNTHETIC] Workshop/handoff,1,88000,88000
+e680a51d7913-invoice_lines-000475,synthetic-e680a51d7913,true,e680a51d7913-invoices-000238,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000476,synthetic-e680a51d7913,true,e680a51d7913-invoices-000238,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000477,synthetic-e680a51d7913,true,e680a51d7913-invoices-000239,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000478,synthetic-e680a51d7913,true,e680a51d7913-invoices-000239,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000479,synthetic-e680a51d7913,true,e680a51d7913-invoices-000240,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000480,synthetic-e680a51d7913,true,e680a51d7913-invoices-000240,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000481,synthetic-e680a51d7913,true,e680a51d7913-invoices-000241,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000482,synthetic-e680a51d7913,true,e680a51d7913-invoices-000241,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000483,synthetic-e680a51d7913,true,e680a51d7913-invoices-000242,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000484,synthetic-e680a51d7913,true,e680a51d7913-invoices-000242,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000485,synthetic-e680a51d7913,true,e680a51d7913-invoices-000243,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000486,synthetic-e680a51d7913,true,e680a51d7913-invoices-000243,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000487,synthetic-e680a51d7913,true,e680a51d7913-invoices-000244,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000488,synthetic-e680a51d7913,true,e680a51d7913-invoices-000244,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000489,synthetic-e680a51d7913,true,e680a51d7913-invoices-000245,[SYNTHETIC] Consulting services,1,324000,324000
+e680a51d7913-invoice_lines-000490,synthetic-e680a51d7913,true,e680a51d7913-invoices-000245,[SYNTHETIC] Workshop/handoff,1,81000,81000
+e680a51d7913-invoice_lines-000491,synthetic-e680a51d7913,true,e680a51d7913-invoices-000246,[SYNTHETIC] Consulting services,1,216000,216000
+e680a51d7913-invoice_lines-000492,synthetic-e680a51d7913,true,e680a51d7913-invoices-000246,[SYNTHETIC] Workshop/handoff,1,54000,54000
+e680a51d7913-invoice_lines-000493,synthetic-e680a51d7913,true,e680a51d7913-invoices-000247,[SYNTHETIC] Consulting services,1,520000,520000
+e680a51d7913-invoice_lines-000494,synthetic-e680a51d7913,true,e680a51d7913-invoices-000247,[SYNTHETIC] Workshop/handoff,1,130000,130000
+e680a51d7913-invoice_lines-000495,synthetic-e680a51d7913,true,e680a51d7913-invoices-000248,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000496,synthetic-e680a51d7913,true,e680a51d7913-invoices-000248,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000497,synthetic-e680a51d7913,true,e680a51d7913-invoices-000249,[SYNTHETIC] Consulting services,1,208000,208000
+e680a51d7913-invoice_lines-000498,synthetic-e680a51d7913,true,e680a51d7913-invoices-000249,[SYNTHETIC] Workshop/handoff,1,52000,52000
+e680a51d7913-invoice_lines-000499,synthetic-e680a51d7913,true,e680a51d7913-invoices-000250,[SYNTHETIC] Consulting services,1,780000,780000
+e680a51d7913-invoice_lines-000500,synthetic-e680a51d7913,true,e680a51d7913-invoices-000250,[SYNTHETIC] Workshop/handoff,1,195000,195000
+e680a51d7913-invoice_lines-000501,synthetic-e680a51d7913,true,e680a51d7913-invoices-000251,[SYNTHETIC] Consulting services,1,468000,468000
+e680a51d7913-invoice_lines-000502,synthetic-e680a51d7913,true,e680a51d7913-invoices-000251,[SYNTHETIC] Workshop/handoff,1,117000,117000
+e680a51d7913-invoice_lines-000503,synthetic-e680a51d7913,true,e680a51d7913-invoices-000252,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000504,synthetic-e680a51d7913,true,e680a51d7913-invoices-000252,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000505,synthetic-e680a51d7913,true,e680a51d7913-invoices-000253,[SYNTHETIC] Consulting services,1,900000,900000
+e680a51d7913-invoice_lines-000506,synthetic-e680a51d7913,true,e680a51d7913-invoices-000253,[SYNTHETIC] Workshop/handoff,1,225000,225000
+e680a51d7913-invoice_lines-000507,synthetic-e680a51d7913,true,e680a51d7913-invoices-000254,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000508,synthetic-e680a51d7913,true,e680a51d7913-invoices-000254,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000509,synthetic-e680a51d7913,true,e680a51d7913-invoices-000255,[SYNTHETIC] Consulting services,1,360000,360000
+e680a51d7913-invoice_lines-000510,synthetic-e680a51d7913,true,e680a51d7913-invoices-000255,[SYNTHETIC] Workshop/handoff,1,90000,90000
+e680a51d7913-invoice_lines-000511,synthetic-e680a51d7913,true,e680a51d7913-invoices-000256,[SYNTHETIC] Consulting services,1,800000,800000
+e680a51d7913-invoice_lines-000512,synthetic-e680a51d7913,true,e680a51d7913-invoices-000256,[SYNTHETIC] Workshop/handoff,1,200000,200000
+e680a51d7913-invoice_lines-000513,synthetic-e680a51d7913,true,e680a51d7913-invoices-000257,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000514,synthetic-e680a51d7913,true,e680a51d7913-invoices-000257,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000515,synthetic-e680a51d7913,true,e680a51d7913-invoices-000258,[SYNTHETIC] Consulting services,1,320000,320000
+e680a51d7913-invoice_lines-000516,synthetic-e680a51d7913,true,e680a51d7913-invoices-000258,[SYNTHETIC] Workshop/handoff,1,80000,80000
+e680a51d7913-invoice_lines-000517,synthetic-e680a51d7913,true,e680a51d7913-invoices-000259,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000518,synthetic-e680a51d7913,true,e680a51d7913-invoices-000259,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000519,synthetic-e680a51d7913,true,e680a51d7913-invoices-000260,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000520,synthetic-e680a51d7913,true,e680a51d7913-invoices-000260,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000521,synthetic-e680a51d7913,true,e680a51d7913-invoices-000261,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000522,synthetic-e680a51d7913,true,e680a51d7913-invoices-000261,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000523,synthetic-e680a51d7913,true,e680a51d7913-invoices-000262,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000524,synthetic-e680a51d7913,true,e680a51d7913-invoices-000262,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000525,synthetic-e680a51d7913,true,e680a51d7913-invoices-000263,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000526,synthetic-e680a51d7913,true,e680a51d7913-invoices-000263,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000527,synthetic-e680a51d7913,true,e680a51d7913-invoices-000264,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000528,synthetic-e680a51d7913,true,e680a51d7913-invoices-000264,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000529,synthetic-e680a51d7913,true,e680a51d7913-invoices-000265,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000530,synthetic-e680a51d7913,true,e680a51d7913-invoices-000265,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000531,synthetic-e680a51d7913,true,e680a51d7913-invoices-000266,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000532,synthetic-e680a51d7913,true,e680a51d7913-invoices-000266,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000533,synthetic-e680a51d7913,true,e680a51d7913-invoices-000267,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000534,synthetic-e680a51d7913,true,e680a51d7913-invoices-000267,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000535,synthetic-e680a51d7913,true,e680a51d7913-invoices-000268,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000536,synthetic-e680a51d7913,true,e680a51d7913-invoices-000268,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000537,synthetic-e680a51d7913,true,e680a51d7913-invoices-000269,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000538,synthetic-e680a51d7913,true,e680a51d7913-invoices-000269,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000539,synthetic-e680a51d7913,true,e680a51d7913-invoices-000270,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000540,synthetic-e680a51d7913,true,e680a51d7913-invoices-000270,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000541,synthetic-e680a51d7913,true,e680a51d7913-invoices-000271,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000542,synthetic-e680a51d7913,true,e680a51d7913-invoices-000271,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000543,synthetic-e680a51d7913,true,e680a51d7913-invoices-000272,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000544,synthetic-e680a51d7913,true,e680a51d7913-invoices-000272,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000545,synthetic-e680a51d7913,true,e680a51d7913-invoices-000273,[SYNTHETIC] Consulting services,1,392000,392000
+e680a51d7913-invoice_lines-000546,synthetic-e680a51d7913,true,e680a51d7913-invoices-000273,[SYNTHETIC] Workshop/handoff,1,98000,98000
+e680a51d7913-invoice_lines-000547,synthetic-e680a51d7913,true,e680a51d7913-invoices-000274,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000548,synthetic-e680a51d7913,true,e680a51d7913-invoices-000274,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000549,synthetic-e680a51d7913,true,e680a51d7913-invoices-000275,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000550,synthetic-e680a51d7913,true,e680a51d7913-invoices-000275,[SYNTHETIC] Workshop/handoff,1,132000,132000
+e680a51d7913-invoice_lines-000551,synthetic-e680a51d7913,true,e680a51d7913-invoices-000276,[SYNTHETIC] Consulting services,1,352000,352000
+e680a51d7913-invoice_lines-000552,synthetic-e680a51d7913,true,e680a51d7913-invoices-000276,[SYNTHETIC] Workshop/handoff,1,88000,88000
+e680a51d7913-invoice_lines-000553,synthetic-e680a51d7913,true,e680a51d7913-invoices-000277,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000554,synthetic-e680a51d7913,true,e680a51d7913-invoices-000277,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000555,synthetic-e680a51d7913,true,e680a51d7913-invoices-000278,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000556,synthetic-e680a51d7913,true,e680a51d7913-invoices-000278,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000557,synthetic-e680a51d7913,true,e680a51d7913-invoices-000279,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000558,synthetic-e680a51d7913,true,e680a51d7913-invoices-000279,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000559,synthetic-e680a51d7913,true,e680a51d7913-invoices-000280,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000560,synthetic-e680a51d7913,true,e680a51d7913-invoices-000280,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000561,synthetic-e680a51d7913,true,e680a51d7913-invoices-000281,[SYNTHETIC] Consulting services,1,324000,324000
+e680a51d7913-invoice_lines-000562,synthetic-e680a51d7913,true,e680a51d7913-invoices-000281,[SYNTHETIC] Workshop/handoff,1,81000,81000
+e680a51d7913-invoice_lines-000563,synthetic-e680a51d7913,true,e680a51d7913-invoices-000282,[SYNTHETIC] Consulting services,1,216000,216000
+e680a51d7913-invoice_lines-000564,synthetic-e680a51d7913,true,e680a51d7913-invoices-000282,[SYNTHETIC] Workshop/handoff,1,54000,54000
+e680a51d7913-invoice_lines-000565,synthetic-e680a51d7913,true,e680a51d7913-invoices-000283,[SYNTHETIC] Consulting services,1,520000,520000
+e680a51d7913-invoice_lines-000566,synthetic-e680a51d7913,true,e680a51d7913-invoices-000283,[SYNTHETIC] Workshop/handoff,1,130000,130000
+e680a51d7913-invoice_lines-000567,synthetic-e680a51d7913,true,e680a51d7913-invoices-000284,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000568,synthetic-e680a51d7913,true,e680a51d7913-invoices-000284,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000569,synthetic-e680a51d7913,true,e680a51d7913-invoices-000285,[SYNTHETIC] Consulting services,1,208000,208000
+e680a51d7913-invoice_lines-000570,synthetic-e680a51d7913,true,e680a51d7913-invoices-000285,[SYNTHETIC] Workshop/handoff,1,52000,52000
+e680a51d7913-invoice_lines-000571,synthetic-e680a51d7913,true,e680a51d7913-invoices-000286,[SYNTHETIC] Consulting services,1,780000,780000
+e680a51d7913-invoice_lines-000572,synthetic-e680a51d7913,true,e680a51d7913-invoices-000286,[SYNTHETIC] Workshop/handoff,1,195000,195000
+e680a51d7913-invoice_lines-000573,synthetic-e680a51d7913,true,e680a51d7913-invoices-000287,[SYNTHETIC] Consulting services,1,468000,468000
+e680a51d7913-invoice_lines-000574,synthetic-e680a51d7913,true,e680a51d7913-invoices-000287,[SYNTHETIC] Workshop/handoff,1,117000,117000
+e680a51d7913-invoice_lines-000575,synthetic-e680a51d7913,true,e680a51d7913-invoices-000288,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000576,synthetic-e680a51d7913,true,e680a51d7913-invoices-000288,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000577,synthetic-e680a51d7913,true,e680a51d7913-invoices-000289,[SYNTHETIC] Consulting services,1,900000,900000
+e680a51d7913-invoice_lines-000578,synthetic-e680a51d7913,true,e680a51d7913-invoices-000289,[SYNTHETIC] Workshop/handoff,1,225000,225000
+e680a51d7913-invoice_lines-000579,synthetic-e680a51d7913,true,e680a51d7913-invoices-000290,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000580,synthetic-e680a51d7913,true,e680a51d7913-invoices-000290,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000581,synthetic-e680a51d7913,true,e680a51d7913-invoices-000291,[SYNTHETIC] Consulting services,1,360000,360000
+e680a51d7913-invoice_lines-000582,synthetic-e680a51d7913,true,e680a51d7913-invoices-000291,[SYNTHETIC] Workshop/handoff,1,90000,90000
+e680a51d7913-invoice_lines-000583,synthetic-e680a51d7913,true,e680a51d7913-invoices-000292,[SYNTHETIC] Consulting services,1,800000,800000
+e680a51d7913-invoice_lines-000584,synthetic-e680a51d7913,true,e680a51d7913-invoices-000292,[SYNTHETIC] Workshop/handoff,1,200000,200000
+e680a51d7913-invoice_lines-000585,synthetic-e680a51d7913,true,e680a51d7913-invoices-000293,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000586,synthetic-e680a51d7913,true,e680a51d7913-invoices-000293,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000587,synthetic-e680a51d7913,true,e680a51d7913-invoices-000294,[SYNTHETIC] Consulting services,1,320000,320000
+e680a51d7913-invoice_lines-000588,synthetic-e680a51d7913,true,e680a51d7913-invoices-000294,[SYNTHETIC] Workshop/handoff,1,80000,80000
+e680a51d7913-invoice_lines-000589,synthetic-e680a51d7913,true,e680a51d7913-invoices-000295,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000590,synthetic-e680a51d7913,true,e680a51d7913-invoices-000295,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000591,synthetic-e680a51d7913,true,e680a51d7913-invoices-000296,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000592,synthetic-e680a51d7913,true,e680a51d7913-invoices-000296,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000593,synthetic-e680a51d7913,true,e680a51d7913-invoices-000297,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000594,synthetic-e680a51d7913,true,e680a51d7913-invoices-000297,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000595,synthetic-e680a51d7913,true,e680a51d7913-invoices-000298,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000596,synthetic-e680a51d7913,true,e680a51d7913-invoices-000298,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000597,synthetic-e680a51d7913,true,e680a51d7913-invoices-000299,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000598,synthetic-e680a51d7913,true,e680a51d7913-invoices-000299,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000599,synthetic-e680a51d7913,true,e680a51d7913-invoices-000300,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000600,synthetic-e680a51d7913,true,e680a51d7913-invoices-000300,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000601,synthetic-e680a51d7913,true,e680a51d7913-invoices-000301,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000602,synthetic-e680a51d7913,true,e680a51d7913-invoices-000301,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000603,synthetic-e680a51d7913,true,e680a51d7913-invoices-000302,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000604,synthetic-e680a51d7913,true,e680a51d7913-invoices-000302,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000605,synthetic-e680a51d7913,true,e680a51d7913-invoices-000303,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000606,synthetic-e680a51d7913,true,e680a51d7913-invoices-000303,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000607,synthetic-e680a51d7913,true,e680a51d7913-invoices-000304,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000608,synthetic-e680a51d7913,true,e680a51d7913-invoices-000304,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000609,synthetic-e680a51d7913,true,e680a51d7913-invoices-000305,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000610,synthetic-e680a51d7913,true,e680a51d7913-invoices-000305,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000611,synthetic-e680a51d7913,true,e680a51d7913-invoices-000306,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000612,synthetic-e680a51d7913,true,e680a51d7913-invoices-000306,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000613,synthetic-e680a51d7913,true,e680a51d7913-invoices-000307,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000614,synthetic-e680a51d7913,true,e680a51d7913-invoices-000307,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000615,synthetic-e680a51d7913,true,e680a51d7913-invoices-000308,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000616,synthetic-e680a51d7913,true,e680a51d7913-invoices-000308,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000617,synthetic-e680a51d7913,true,e680a51d7913-invoices-000309,[SYNTHETIC] Consulting services,1,392000,392000
+e680a51d7913-invoice_lines-000618,synthetic-e680a51d7913,true,e680a51d7913-invoices-000309,[SYNTHETIC] Workshop/handoff,1,98000,98000
+e680a51d7913-invoice_lines-000619,synthetic-e680a51d7913,true,e680a51d7913-invoices-000310,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000620,synthetic-e680a51d7913,true,e680a51d7913-invoices-000310,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000621,synthetic-e680a51d7913,true,e680a51d7913-invoices-000311,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000622,synthetic-e680a51d7913,true,e680a51d7913-invoices-000311,[SYNTHETIC] Workshop/handoff,1,132000,132000
+e680a51d7913-invoice_lines-000623,synthetic-e680a51d7913,true,e680a51d7913-invoices-000312,[SYNTHETIC] Consulting services,1,352000,352000
+e680a51d7913-invoice_lines-000624,synthetic-e680a51d7913,true,e680a51d7913-invoices-000312,[SYNTHETIC] Workshop/handoff,1,88000,88000
+e680a51d7913-invoice_lines-000625,synthetic-e680a51d7913,true,e680a51d7913-invoices-000313,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000626,synthetic-e680a51d7913,true,e680a51d7913-invoices-000313,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000627,synthetic-e680a51d7913,true,e680a51d7913-invoices-000314,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000628,synthetic-e680a51d7913,true,e680a51d7913-invoices-000314,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000629,synthetic-e680a51d7913,true,e680a51d7913-invoices-000315,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000630,synthetic-e680a51d7913,true,e680a51d7913-invoices-000315,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000631,synthetic-e680a51d7913,true,e680a51d7913-invoices-000316,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000632,synthetic-e680a51d7913,true,e680a51d7913-invoices-000316,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000633,synthetic-e680a51d7913,true,e680a51d7913-invoices-000317,[SYNTHETIC] Consulting services,1,324000,324000
+e680a51d7913-invoice_lines-000634,synthetic-e680a51d7913,true,e680a51d7913-invoices-000317,[SYNTHETIC] Workshop/handoff,1,81000,81000
+e680a51d7913-invoice_lines-000635,synthetic-e680a51d7913,true,e680a51d7913-invoices-000318,[SYNTHETIC] Consulting services,1,216000,216000
+e680a51d7913-invoice_lines-000636,synthetic-e680a51d7913,true,e680a51d7913-invoices-000318,[SYNTHETIC] Workshop/handoff,1,54000,54000
+e680a51d7913-invoice_lines-000637,synthetic-e680a51d7913,true,e680a51d7913-invoices-000319,[SYNTHETIC] Consulting services,1,520000,520000
+e680a51d7913-invoice_lines-000638,synthetic-e680a51d7913,true,e680a51d7913-invoices-000319,[SYNTHETIC] Workshop/handoff,1,130000,130000
+e680a51d7913-invoice_lines-000639,synthetic-e680a51d7913,true,e680a51d7913-invoices-000320,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000640,synthetic-e680a51d7913,true,e680a51d7913-invoices-000320,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000641,synthetic-e680a51d7913,true,e680a51d7913-invoices-000321,[SYNTHETIC] Consulting services,1,208000,208000
+e680a51d7913-invoice_lines-000642,synthetic-e680a51d7913,true,e680a51d7913-invoices-000321,[SYNTHETIC] Workshop/handoff,1,52000,52000
+e680a51d7913-invoice_lines-000643,synthetic-e680a51d7913,true,e680a51d7913-invoices-000322,[SYNTHETIC] Consulting services,1,780000,780000
+e680a51d7913-invoice_lines-000644,synthetic-e680a51d7913,true,e680a51d7913-invoices-000322,[SYNTHETIC] Workshop/handoff,1,195000,195000
+e680a51d7913-invoice_lines-000645,synthetic-e680a51d7913,true,e680a51d7913-invoices-000323,[SYNTHETIC] Consulting services,1,468000,468000
+e680a51d7913-invoice_lines-000646,synthetic-e680a51d7913,true,e680a51d7913-invoices-000323,[SYNTHETIC] Workshop/handoff,1,117000,117000
+e680a51d7913-invoice_lines-000647,synthetic-e680a51d7913,true,e680a51d7913-invoices-000324,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000648,synthetic-e680a51d7913,true,e680a51d7913-invoices-000324,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000649,synthetic-e680a51d7913,true,e680a51d7913-invoices-000325,[SYNTHETIC] Consulting services,1,900000,900000
+e680a51d7913-invoice_lines-000650,synthetic-e680a51d7913,true,e680a51d7913-invoices-000325,[SYNTHETIC] Workshop/handoff,1,225000,225000
+e680a51d7913-invoice_lines-000651,synthetic-e680a51d7913,true,e680a51d7913-invoices-000326,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000652,synthetic-e680a51d7913,true,e680a51d7913-invoices-000326,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000653,synthetic-e680a51d7913,true,e680a51d7913-invoices-000327,[SYNTHETIC] Consulting services,1,360000,360000
+e680a51d7913-invoice_lines-000654,synthetic-e680a51d7913,true,e680a51d7913-invoices-000327,[SYNTHETIC] Workshop/handoff,1,90000,90000
+e680a51d7913-invoice_lines-000655,synthetic-e680a51d7913,true,e680a51d7913-invoices-000328,[SYNTHETIC] Consulting services,1,800000,800000
+e680a51d7913-invoice_lines-000656,synthetic-e680a51d7913,true,e680a51d7913-invoices-000328,[SYNTHETIC] Workshop/handoff,1,200000,200000
+e680a51d7913-invoice_lines-000657,synthetic-e680a51d7913,true,e680a51d7913-invoices-000329,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000658,synthetic-e680a51d7913,true,e680a51d7913-invoices-000329,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000659,synthetic-e680a51d7913,true,e680a51d7913-invoices-000330,[SYNTHETIC] Consulting services,1,320000,320000
+e680a51d7913-invoice_lines-000660,synthetic-e680a51d7913,true,e680a51d7913-invoices-000330,[SYNTHETIC] Workshop/handoff,1,80000,80000
+e680a51d7913-invoice_lines-000661,synthetic-e680a51d7913,true,e680a51d7913-invoices-000331,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000662,synthetic-e680a51d7913,true,e680a51d7913-invoices-000331,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000663,synthetic-e680a51d7913,true,e680a51d7913-invoices-000332,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000664,synthetic-e680a51d7913,true,e680a51d7913-invoices-000332,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000665,synthetic-e680a51d7913,true,e680a51d7913-invoices-000333,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000666,synthetic-e680a51d7913,true,e680a51d7913-invoices-000333,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000667,synthetic-e680a51d7913,true,e680a51d7913-invoices-000334,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000668,synthetic-e680a51d7913,true,e680a51d7913-invoices-000334,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000669,synthetic-e680a51d7913,true,e680a51d7913-invoices-000335,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000670,synthetic-e680a51d7913,true,e680a51d7913-invoices-000335,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000671,synthetic-e680a51d7913,true,e680a51d7913-invoices-000336,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000672,synthetic-e680a51d7913,true,e680a51d7913-invoices-000336,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000673,synthetic-e680a51d7913,true,e680a51d7913-invoices-000337,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000674,synthetic-e680a51d7913,true,e680a51d7913-invoices-000337,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000675,synthetic-e680a51d7913,true,e680a51d7913-invoices-000338,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000676,synthetic-e680a51d7913,true,e680a51d7913-invoices-000338,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000677,synthetic-e680a51d7913,true,e680a51d7913-invoices-000339,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000678,synthetic-e680a51d7913,true,e680a51d7913-invoices-000339,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000679,synthetic-e680a51d7913,true,e680a51d7913-invoices-000340,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000680,synthetic-e680a51d7913,true,e680a51d7913-invoices-000340,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000681,synthetic-e680a51d7913,true,e680a51d7913-invoices-000341,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000682,synthetic-e680a51d7913,true,e680a51d7913-invoices-000341,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000683,synthetic-e680a51d7913,true,e680a51d7913-invoices-000342,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000684,synthetic-e680a51d7913,true,e680a51d7913-invoices-000342,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000685,synthetic-e680a51d7913,true,e680a51d7913-invoices-000343,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000686,synthetic-e680a51d7913,true,e680a51d7913-invoices-000343,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000687,synthetic-e680a51d7913,true,e680a51d7913-invoices-000344,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000688,synthetic-e680a51d7913,true,e680a51d7913-invoices-000344,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000689,synthetic-e680a51d7913,true,e680a51d7913-invoices-000345,[SYNTHETIC] Consulting services,1,392000,392000
+e680a51d7913-invoice_lines-000690,synthetic-e680a51d7913,true,e680a51d7913-invoices-000345,[SYNTHETIC] Workshop/handoff,1,98000,98000
+e680a51d7913-invoice_lines-000691,synthetic-e680a51d7913,true,e680a51d7913-invoices-000346,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000692,synthetic-e680a51d7913,true,e680a51d7913-invoices-000346,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000693,synthetic-e680a51d7913,true,e680a51d7913-invoices-000347,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000694,synthetic-e680a51d7913,true,e680a51d7913-invoices-000347,[SYNTHETIC] Workshop/handoff,1,132000,132000
+e680a51d7913-invoice_lines-000695,synthetic-e680a51d7913,true,e680a51d7913-invoices-000348,[SYNTHETIC] Consulting services,1,352000,352000
+e680a51d7913-invoice_lines-000696,synthetic-e680a51d7913,true,e680a51d7913-invoices-000348,[SYNTHETIC] Workshop/handoff,1,88000,88000
+e680a51d7913-invoice_lines-000697,synthetic-e680a51d7913,true,e680a51d7913-invoices-000349,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000698,synthetic-e680a51d7913,true,e680a51d7913-invoices-000349,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000699,synthetic-e680a51d7913,true,e680a51d7913-invoices-000350,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000700,synthetic-e680a51d7913,true,e680a51d7913-invoices-000350,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000701,synthetic-e680a51d7913,true,e680a51d7913-invoices-000351,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000702,synthetic-e680a51d7913,true,e680a51d7913-invoices-000351,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000703,synthetic-e680a51d7913,true,e680a51d7913-invoices-000352,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000704,synthetic-e680a51d7913,true,e680a51d7913-invoices-000352,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000705,synthetic-e680a51d7913,true,e680a51d7913-invoices-000353,[SYNTHETIC] Consulting services,1,324000,324000
+e680a51d7913-invoice_lines-000706,synthetic-e680a51d7913,true,e680a51d7913-invoices-000353,[SYNTHETIC] Workshop/handoff,1,81000,81000
+e680a51d7913-invoice_lines-000707,synthetic-e680a51d7913,true,e680a51d7913-invoices-000354,[SYNTHETIC] Consulting services,1,216000,216000
+e680a51d7913-invoice_lines-000708,synthetic-e680a51d7913,true,e680a51d7913-invoices-000354,[SYNTHETIC] Workshop/handoff,1,54000,54000
+e680a51d7913-invoice_lines-000709,synthetic-e680a51d7913,true,e680a51d7913-invoices-000355,[SYNTHETIC] Consulting services,1,520000,520000
+e680a51d7913-invoice_lines-000710,synthetic-e680a51d7913,true,e680a51d7913-invoices-000355,[SYNTHETIC] Workshop/handoff,1,130000,130000
+e680a51d7913-invoice_lines-000711,synthetic-e680a51d7913,true,e680a51d7913-invoices-000356,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000712,synthetic-e680a51d7913,true,e680a51d7913-invoices-000356,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000713,synthetic-e680a51d7913,true,e680a51d7913-invoices-000357,[SYNTHETIC] Consulting services,1,208000,208000
+e680a51d7913-invoice_lines-000714,synthetic-e680a51d7913,true,e680a51d7913-invoices-000357,[SYNTHETIC] Workshop/handoff,1,52000,52000
+e680a51d7913-invoice_lines-000715,synthetic-e680a51d7913,true,e680a51d7913-invoices-000358,[SYNTHETIC] Consulting services,1,780000,780000
+e680a51d7913-invoice_lines-000716,synthetic-e680a51d7913,true,e680a51d7913-invoices-000358,[SYNTHETIC] Workshop/handoff,1,195000,195000
+e680a51d7913-invoice_lines-000717,synthetic-e680a51d7913,true,e680a51d7913-invoices-000359,[SYNTHETIC] Consulting services,1,468000,468000
+e680a51d7913-invoice_lines-000718,synthetic-e680a51d7913,true,e680a51d7913-invoices-000359,[SYNTHETIC] Workshop/handoff,1,117000,117000
+e680a51d7913-invoice_lines-000719,synthetic-e680a51d7913,true,e680a51d7913-invoices-000360,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000720,synthetic-e680a51d7913,true,e680a51d7913-invoices-000360,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000721,synthetic-e680a51d7913,true,e680a51d7913-invoices-000361,[SYNTHETIC] Consulting services,1,900000,900000
+e680a51d7913-invoice_lines-000722,synthetic-e680a51d7913,true,e680a51d7913-invoices-000361,[SYNTHETIC] Workshop/handoff,1,225000,225000
+e680a51d7913-invoice_lines-000723,synthetic-e680a51d7913,true,e680a51d7913-invoices-000362,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000724,synthetic-e680a51d7913,true,e680a51d7913-invoices-000362,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000725,synthetic-e680a51d7913,true,e680a51d7913-invoices-000363,[SYNTHETIC] Consulting services,1,360000,360000
+e680a51d7913-invoice_lines-000726,synthetic-e680a51d7913,true,e680a51d7913-invoices-000363,[SYNTHETIC] Workshop/handoff,1,90000,90000
+e680a51d7913-invoice_lines-000727,synthetic-e680a51d7913,true,e680a51d7913-invoices-000364,[SYNTHETIC] Consulting services,1,800000,800000
+e680a51d7913-invoice_lines-000728,synthetic-e680a51d7913,true,e680a51d7913-invoices-000364,[SYNTHETIC] Workshop/handoff,1,200000,200000
+e680a51d7913-invoice_lines-000729,synthetic-e680a51d7913,true,e680a51d7913-invoices-000365,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000730,synthetic-e680a51d7913,true,e680a51d7913-invoices-000365,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000731,synthetic-e680a51d7913,true,e680a51d7913-invoices-000366,[SYNTHETIC] Consulting services,1,320000,320000
+e680a51d7913-invoice_lines-000732,synthetic-e680a51d7913,true,e680a51d7913-invoices-000366,[SYNTHETIC] Workshop/handoff,1,80000,80000
+e680a51d7913-invoice_lines-000733,synthetic-e680a51d7913,true,e680a51d7913-invoices-000367,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000734,synthetic-e680a51d7913,true,e680a51d7913-invoices-000367,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000735,synthetic-e680a51d7913,true,e680a51d7913-invoices-000368,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000736,synthetic-e680a51d7913,true,e680a51d7913-invoices-000368,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000737,synthetic-e680a51d7913,true,e680a51d7913-invoices-000369,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000738,synthetic-e680a51d7913,true,e680a51d7913-invoices-000369,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000739,synthetic-e680a51d7913,true,e680a51d7913-invoices-000370,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000740,synthetic-e680a51d7913,true,e680a51d7913-invoices-000370,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000741,synthetic-e680a51d7913,true,e680a51d7913-invoices-000371,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000742,synthetic-e680a51d7913,true,e680a51d7913-invoices-000371,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000743,synthetic-e680a51d7913,true,e680a51d7913-invoices-000372,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000744,synthetic-e680a51d7913,true,e680a51d7913-invoices-000372,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000745,synthetic-e680a51d7913,true,e680a51d7913-invoices-000373,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000746,synthetic-e680a51d7913,true,e680a51d7913-invoices-000373,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000747,synthetic-e680a51d7913,true,e680a51d7913-invoices-000374,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000748,synthetic-e680a51d7913,true,e680a51d7913-invoices-000374,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000749,synthetic-e680a51d7913,true,e680a51d7913-invoices-000375,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000750,synthetic-e680a51d7913,true,e680a51d7913-invoices-000375,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000751,synthetic-e680a51d7913,true,e680a51d7913-invoices-000376,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000752,synthetic-e680a51d7913,true,e680a51d7913-invoices-000376,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000753,synthetic-e680a51d7913,true,e680a51d7913-invoices-000377,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000754,synthetic-e680a51d7913,true,e680a51d7913-invoices-000377,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000755,synthetic-e680a51d7913,true,e680a51d7913-invoices-000378,[SYNTHETIC] Consulting services,1,280000,280000
+e680a51d7913-invoice_lines-000756,synthetic-e680a51d7913,true,e680a51d7913-invoices-000378,[SYNTHETIC] Workshop/handoff,1,70000,70000
+e680a51d7913-invoice_lines-000757,synthetic-e680a51d7913,true,e680a51d7913-invoices-000379,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000758,synthetic-e680a51d7913,true,e680a51d7913-invoices-000379,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000759,synthetic-e680a51d7913,true,e680a51d7913-invoices-000380,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000760,synthetic-e680a51d7913,true,e680a51d7913-invoices-000380,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000761,synthetic-e680a51d7913,true,e680a51d7913-invoices-000381,[SYNTHETIC] Consulting services,1,392000,392000
+e680a51d7913-invoice_lines-000762,synthetic-e680a51d7913,true,e680a51d7913-invoices-000381,[SYNTHETIC] Workshop/handoff,1,98000,98000
+e680a51d7913-invoice_lines-000763,synthetic-e680a51d7913,true,e680a51d7913-invoices-000382,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000764,synthetic-e680a51d7913,true,e680a51d7913-invoices-000382,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000765,synthetic-e680a51d7913,true,e680a51d7913-invoices-000383,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000766,synthetic-e680a51d7913,true,e680a51d7913-invoices-000383,[SYNTHETIC] Workshop/handoff,1,132000,132000
+e680a51d7913-invoice_lines-000767,synthetic-e680a51d7913,true,e680a51d7913-invoices-000384,[SYNTHETIC] Consulting services,1,352000,352000
+e680a51d7913-invoice_lines-000768,synthetic-e680a51d7913,true,e680a51d7913-invoices-000384,[SYNTHETIC] Workshop/handoff,1,88000,88000
+e680a51d7913-invoice_lines-000769,synthetic-e680a51d7913,true,e680a51d7913-invoices-000385,[SYNTHETIC] Consulting services,1,580000,580000
+e680a51d7913-invoice_lines-000770,synthetic-e680a51d7913,true,e680a51d7913-invoices-000385,[SYNTHETIC] Workshop/handoff,1,145000,145000
+e680a51d7913-invoice_lines-000771,synthetic-e680a51d7913,true,e680a51d7913-invoices-000386,[SYNTHETIC] Consulting services,1,348000,348000
+e680a51d7913-invoice_lines-000772,synthetic-e680a51d7913,true,e680a51d7913-invoices-000386,[SYNTHETIC] Workshop/handoff,1,87000,87000
+e680a51d7913-invoice_lines-000773,synthetic-e680a51d7913,true,e680a51d7913-invoices-000387,[SYNTHETIC] Consulting services,1,232000,232000
+e680a51d7913-invoice_lines-000774,synthetic-e680a51d7913,true,e680a51d7913-invoices-000387,[SYNTHETIC] Workshop/handoff,1,58000,58000
+e680a51d7913-invoice_lines-000775,synthetic-e680a51d7913,true,e680a51d7913-invoices-000388,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000776,synthetic-e680a51d7913,true,e680a51d7913-invoices-000388,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000777,synthetic-e680a51d7913,true,e680a51d7913-invoices-000389,[SYNTHETIC] Consulting services,1,324000,324000
+e680a51d7913-invoice_lines-000778,synthetic-e680a51d7913,true,e680a51d7913-invoices-000389,[SYNTHETIC] Workshop/handoff,1,81000,81000
+e680a51d7913-invoice_lines-000779,synthetic-e680a51d7913,true,e680a51d7913-invoices-000390,[SYNTHETIC] Consulting services,1,216000,216000
+e680a51d7913-invoice_lines-000780,synthetic-e680a51d7913,true,e680a51d7913-invoices-000390,[SYNTHETIC] Workshop/handoff,1,54000,54000
+e680a51d7913-invoice_lines-000781,synthetic-e680a51d7913,true,e680a51d7913-invoices-000391,[SYNTHETIC] Consulting services,1,520000,520000
+e680a51d7913-invoice_lines-000782,synthetic-e680a51d7913,true,e680a51d7913-invoices-000391,[SYNTHETIC] Workshop/handoff,1,130000,130000
+e680a51d7913-invoice_lines-000783,synthetic-e680a51d7913,true,e680a51d7913-invoices-000392,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000784,synthetic-e680a51d7913,true,e680a51d7913-invoices-000392,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000785,synthetic-e680a51d7913,true,e680a51d7913-invoices-000393,[SYNTHETIC] Consulting services,1,208000,208000
+e680a51d7913-invoice_lines-000786,synthetic-e680a51d7913,true,e680a51d7913-invoices-000393,[SYNTHETIC] Workshop/handoff,1,52000,52000
+e680a51d7913-invoice_lines-000787,synthetic-e680a51d7913,true,e680a51d7913-invoices-000394,[SYNTHETIC] Consulting services,1,780000,780000
+e680a51d7913-invoice_lines-000788,synthetic-e680a51d7913,true,e680a51d7913-invoices-000394,[SYNTHETIC] Workshop/handoff,1,195000,195000
+e680a51d7913-invoice_lines-000789,synthetic-e680a51d7913,true,e680a51d7913-invoices-000395,[SYNTHETIC] Consulting services,1,468000,468000
+e680a51d7913-invoice_lines-000790,synthetic-e680a51d7913,true,e680a51d7913-invoices-000395,[SYNTHETIC] Workshop/handoff,1,117000,117000
+e680a51d7913-invoice_lines-000791,synthetic-e680a51d7913,true,e680a51d7913-invoices-000396,[SYNTHETIC] Consulting services,1,312000,312000
+e680a51d7913-invoice_lines-000792,synthetic-e680a51d7913,true,e680a51d7913-invoices-000396,[SYNTHETIC] Workshop/handoff,1,78000,78000
+e680a51d7913-invoice_lines-000793,synthetic-e680a51d7913,true,e680a51d7913-invoices-000397,[SYNTHETIC] Consulting services,1,900000,900000
+e680a51d7913-invoice_lines-000794,synthetic-e680a51d7913,true,e680a51d7913-invoices-000397,[SYNTHETIC] Workshop/handoff,1,225000,225000
+e680a51d7913-invoice_lines-000795,synthetic-e680a51d7913,true,e680a51d7913-invoices-000398,[SYNTHETIC] Consulting services,1,540000,540000
+e680a51d7913-invoice_lines-000796,synthetic-e680a51d7913,true,e680a51d7913-invoices-000398,[SYNTHETIC] Workshop/handoff,1,135000,135000
+e680a51d7913-invoice_lines-000797,synthetic-e680a51d7913,true,e680a51d7913-invoices-000399,[SYNTHETIC] Consulting services,1,360000,360000
+e680a51d7913-invoice_lines-000798,synthetic-e680a51d7913,true,e680a51d7913-invoices-000399,[SYNTHETIC] Workshop/handoff,1,90000,90000
+e680a51d7913-invoice_lines-000799,synthetic-e680a51d7913,true,e680a51d7913-invoices-000400,[SYNTHETIC] Consulting services,1,800000,800000
+e680a51d7913-invoice_lines-000800,synthetic-e680a51d7913,true,e680a51d7913-invoices-000400,[SYNTHETIC] Workshop/handoff,1,200000,200000
+e680a51d7913-invoice_lines-000801,synthetic-e680a51d7913,true,e680a51d7913-invoices-000401,[SYNTHETIC] Consulting services,1,480000,480000
+e680a51d7913-invoice_lines-000802,synthetic-e680a51d7913,true,e680a51d7913-invoices-000401,[SYNTHETIC] Workshop/handoff,1,120000,120000
+e680a51d7913-invoice_lines-000803,synthetic-e680a51d7913,true,e680a51d7913-invoices-000402,[SYNTHETIC] Consulting services,1,320000,320000
+e680a51d7913-invoice_lines-000804,synthetic-e680a51d7913,true,e680a51d7913-invoices-000402,[SYNTHETIC] Workshop/handoff,1,80000,80000
+e680a51d7913-invoice_lines-000805,synthetic-e680a51d7913,true,e680a51d7913-invoices-000403,[SYNTHETIC] Consulting services,1,660000,660000
+e680a51d7913-invoice_lines-000806,synthetic-e680a51d7913,true,e680a51d7913-invoices-000403,[SYNTHETIC] Workshop/handoff,1,165000,165000
+e680a51d7913-invoice_lines-000807,synthetic-e680a51d7913,true,e680a51d7913-invoices-000404,[SYNTHETIC] Consulting services,1,396000,396000
+e680a51d7913-invoice_lines-000808,synthetic-e680a51d7913,true,e680a51d7913-invoices-000404,[SYNTHETIC] Workshop/handoff,1,99000,99000
+e680a51d7913-invoice_lines-000809,synthetic-e680a51d7913,true,e680a51d7913-invoices-000405,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000810,synthetic-e680a51d7913,true,e680a51d7913-invoices-000405,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000811,synthetic-e680a51d7913,true,e680a51d7913-invoices-000406,[SYNTHETIC] Consulting services,1,620000,620000
+e680a51d7913-invoice_lines-000812,synthetic-e680a51d7913,true,e680a51d7913-invoices-000406,[SYNTHETIC] Workshop/handoff,1,155000,155000
+e680a51d7913-invoice_lines-000813,synthetic-e680a51d7913,true,e680a51d7913-invoices-000407,[SYNTHETIC] Consulting services,1,372000,372000
+e680a51d7913-invoice_lines-000814,synthetic-e680a51d7913,true,e680a51d7913-invoices-000407,[SYNTHETIC] Workshop/handoff,1,93000,93000
+e680a51d7913-invoice_lines-000815,synthetic-e680a51d7913,true,e680a51d7913-invoices-000408,[SYNTHETIC] Consulting services,1,248000,248000
+e680a51d7913-invoice_lines-000816,synthetic-e680a51d7913,true,e680a51d7913-invoices-000408,[SYNTHETIC] Workshop/handoff,1,62000,62000
+e680a51d7913-invoice_lines-000817,synthetic-e680a51d7913,true,e680a51d7913-invoices-000409,[SYNTHETIC] Consulting services,1,440000,440000
+e680a51d7913-invoice_lines-000818,synthetic-e680a51d7913,true,e680a51d7913-invoices-000409,[SYNTHETIC] Workshop/handoff,1,110000,110000
+e680a51d7913-invoice_lines-000819,synthetic-e680a51d7913,true,e680a51d7913-invoices-000410,[SYNTHETIC] Consulting services,1,264000,264000
+e680a51d7913-invoice_lines-000820,synthetic-e680a51d7913,true,e680a51d7913-invoices-000410,[SYNTHETIC] Workshop/handoff,1,66000,66000
+e680a51d7913-invoice_lines-000821,synthetic-e680a51d7913,true,e680a51d7913-invoices-000411,[SYNTHETIC] Consulting services,1,176000,176000
+e680a51d7913-invoice_lines-000822,synthetic-e680a51d7913,true,e680a51d7913-invoices-000411,[SYNTHETIC] Workshop/handoff,1,44000,44000
+e680a51d7913-invoice_lines-000823,synthetic-e680a51d7913,true,e680a51d7913-invoices-000412,[SYNTHETIC] Consulting services,1,700000,700000
+e680a51d7913-invoice_lines-000824,synthetic-e680a51d7913,true,e680a51d7913-invoices-000412,[SYNTHETIC] Workshop/handoff,1,175000,175000
+e680a51d7913-invoice_lines-000825,synthetic-e680a51d7913,true,e680a51d7913-invoices-000413,[SYNTHETIC] Consulting services,1,420000,420000
+e680a51d7913-invoice_lines-000826,synthetic-e680a51d7913,true,e680a51d7913-invoices-000413,[SYNTHETIC] Workshop/handoff,1,105000,105000
+e680a51d7913-invoice_lines-000827,synthetic-e680a51d7913,true,e680a51d7913-invoices-000414,[SYNTHETIC] Consulting services,1,980000,980000
+e680a51d7913-invoice_lines-000828,synthetic-e680a51d7913,true,e680a51d7913-invoices-000414,[SYNTHETIC] Workshop/handoff,1,245000,245000
+e680a51d7913-invoice_lines-000829,synthetic-e680a51d7913,true,e680a51d7913-invoices-000415,[SYNTHETIC] Consulting services,1,588000,588000
+e680a51d7913-invoice_lines-000830,synthetic-e680a51d7913,true,e680a51d7913-invoices-000415,[SYNTHETIC] Workshop/handoff,1,147000,147000
+e680a51d7913-invoice_lines-000831,synthetic-e680a51d7913,true,e680a51d7913-invoices-000416,[SYNTHETIC] Consulting services,1,880000,880000
+e680a51d7913-invoice_lines-000832,synthetic-e680a51d7913,true,e680a51d7913-invoices-000416,[SYNTHETIC] Workshop/handoff,1,220000,220000
+e680a51d7913-invoice_lines-000833,synthetic-e680a51d7913,true,e680a51d7913-invoices-000417,[SYNTHETIC] Consulting services,1,528000,528000
+e680a51d7913-invoice_lines-000834,synthetic-e680a51d7913,true,e680a51d7913-invoices-000417,[SYNTHETIC] Workshop/handoff,1,132000,132000

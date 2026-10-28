@@ -1,0 +1,19 @@
+{
+  "synthetic_output_only": true,
+  "provenance": {
+    "origin": "Independently authored fictional role and capability templates for this public-safe fixture",
+    "source_roster_used": false,
+    "real_person_data_used": false,
+    "design_note": "Eight equal fictional cohorts; these are scenario assumptions, not measurements of a workforce"
+  },
+  "shapes": [
+    {"title": "Service planner", "skills": ["scope planning", "client discovery", "decision logs"], "count": 125},
+    {"title": "Delivery coordinator", "skills": ["handoff design", "task scheduling", "status reporting"], "count": 125},
+    {"title": "Research analyst", "skills": ["interview synthesis", "scenario research", "assumption tracking"], "count": 125},
+    {"title": "Operations analyst", "skills": ["process mapping", "capacity modeling", "quality checks"], "count": 125},
+    {"title": "Support specialist", "skills": ["issue triage", "knowledge writing", "client communication"], "count": 125},
+    {"title": "Finance coordinator", "skills": ["invoice review", "cash reconciliation", "expense tracking"], "count": 125},
+    {"title": "Workshop facilitator", "skills": ["session design", "group facilitation", "feedback synthesis"], "count": 125},
+    {"title": "Evidence reviewer", "skills": ["record checking", "source attribution", "acceptance review"], "count": 125}
+  ]
+}

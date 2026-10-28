@@ -1,0 +1,6 @@
+id,dataset_id,synthetic,title,occurred_on,supporting_domain,interpretation
+e680a51d7913-story_events-000001,synthetic-e680a51d7913,true,[SYNTHETIC] Founding and first playbook,2024-10-29,company,"Authored simulation arc, supported by generated cohort and outcome records; never a real business event"
+e680a51d7913-story_events-000002,synthetic-e680a51d7913,true,[SYNTHETIC] Summer pipeline softness,2025-07-15,campaigns,"Authored simulation arc, supported by generated cohort and outcome records; never a real business event"
+e680a51d7913-story_events-000003,synthetic-e680a51d7913,true,[SYNTHETIC] Review discipline after scope losses,2025-10-15,leads,"Authored simulation arc, supported by generated cohort and outcome records; never a real business event"
+e680a51d7913-story_events-000004,synthetic-e680a51d7913,true,[SYNTHETIC] Growing fictional customer cohort,2026-04-15,customers,"Authored simulation arc, supported by generated cohort and outcome records; never a real business event"
+e680a51d7913-story_events-000005,synthetic-e680a51d7913,true,[SYNTHETIC] Current evidence cut,2026-10-28,company,"Authored simulation arc, supported by generated cohort and outcome records; never a real business event"

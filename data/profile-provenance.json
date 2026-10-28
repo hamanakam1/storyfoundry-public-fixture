@@ -1,0 +1,89 @@
+{
+  "dataset_id": "synthetic-e680a51d7913",
+  "config": {
+    "company_name": "Mosaic Service Studio",
+    "company_expansion": "A fictional advisory and delivery studio",
+    "scenario": "FICTIONAL service operations training scenario",
+    "anchor_date": "2026-10-28",
+    "history_start": "2024-10-29",
+    "seed": 41027,
+    "customers": 100,
+    "leads": 500,
+    "talent": 1000,
+    "staff": 48,
+    "future_meetings": 40,
+    "currency": "USD",
+    "services": [
+      [
+        "Workflow mapping",
+        1100000
+      ],
+      [
+        "Content architecture",
+        1650000
+      ],
+      [
+        "Data cleanup rehearsal",
+        2250000
+      ],
+      [
+        "Team enablement",
+        1900000
+      ],
+      [
+        "Reporting playbook",
+        1450000
+      ],
+      [
+        "Operations retrospective",
+        1250000
+      ]
+    ],
+    "tax_assumption": "Synthetic zero-tax scenario; not tax advice or a real invoice",
+    "synthetic": true,
+    "live_import_authorized": false
+  },
+  "profile_provenance": {
+    "origin": "Independently authored fictional role and capability templates for this public-safe fixture",
+    "source_roster_used": false,
+    "real_person_data_used": false,
+    "design_note": "Eight equal fictional cohorts; these are scenario assumptions, not measurements of a workforce"
+  },
+  "profile_shape_sha256": "f2e01aae2a3fbe73129c166aaa82842e344bd4afc6c72dc1b2a7c5921be78942",
+  "title_counts": {
+    "Service planner": 125,
+    "Delivery coordinator": 125,
+    "Research analyst": 125,
+    "Operations analyst": 125,
+    "Support specialist": 125,
+    "Finance coordinator": 125,
+    "Workshop facilitator": 125,
+    "Evidence reviewer": 125
+  },
+  "skill_incidence_counts": {
+    "client discovery": 125,
+    "decision logs": 125,
+    "scope planning": 125,
+    "handoff design": 125,
+    "status reporting": 125,
+    "task scheduling": 125,
+    "assumption tracking": 125,
+    "interview synthesis": 125,
+    "scenario research": 125,
+    "capacity modeling": 125,
+    "process mapping": 125,
+    "quality checks": 125,
+    "client communication": 125,
+    "issue triage": 125,
+    "knowledge writing": 125,
+    "cash reconciliation": 125,
+    "expense tracking": 125,
+    "invoice review": 125,
+    "feedback synthesis": 125,
+    "group facilitation": 125,
+    "session design": 125,
+    "acceptance review": 125,
+    "record checking": 125,
+    "source attribution": 125
+  }
+}

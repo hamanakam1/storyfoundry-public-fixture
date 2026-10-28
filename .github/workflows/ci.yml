@@ -1,0 +1,33 @@
+name: verify synthetic fixture
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test-and-validate:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run unit tests
+        run: python -m unittest -v
+      - name: Validate committed fixture
+        run: python validate.py --data data --receipt /tmp/validation.json
+      - name: Check deterministic regeneration
+        run: |
+          tmp_dir="$(mktemp -d)"
+          python generate.py --output "$tmp_dir/data"
+          # The committed story bible may include an optional private prose
+          # appendix; compare the canonical machine-readable outputs only.
+          diff -qr data "$tmp_dir/data" \
+            --exclude='STORY_BIBLE.md' \
+            --exclude='manifest.json'
