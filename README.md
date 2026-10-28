@@ -31,3 +31,9 @@ payment attempts, support cases and future meetings. Its accounting identity is
 issued invoices minus credits equals posted payments plus outstanding balances.
 The numbers are training data, not revenue claims, accounting advice or a
 forecast for any future venture.
+
+## License
+
+The code, authored inputs, documentation and generated synthetic fixture in
+this repository are available under the [MIT License](LICENSE). The fictional
+company name is a sample label, not a representation of a real business.
